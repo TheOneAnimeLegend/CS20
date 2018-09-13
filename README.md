@@ -46,7 +46,8 @@ Intermediate High School Computer Science
 - Multiple Web Page, Dynamic, Website Project, Business Focus for Skills Canada
 
 #### Business Webpage, based on Skills Alberta Canada Expectations
--
+- Case Study on paper
+- Case Study Expectations
 
 ### JavaScript Projects
 
