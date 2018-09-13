@@ -6,13 +6,13 @@ Intermediate High School Computer Science
 
 ---
 
-See First Day: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day
+See First Day: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day"><p>Click Here</p></a>
 - Main Goals: workstation routine & imaging what algorithms are
 
-See Projects: https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects
+See Projects: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects"><p>Click Here</p></a>
 - Main Goal: routines for prototyping & introductions to course ideas
 
-See Creating a Repository in GitHub: https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt
+See Creating a Repository in GitHub: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt"><p>Click Here</p></a>
 - Main Goals
    1. Using GitHub Account and Creating a Repository
    2. Routine for putting initial files inside and what these might be used for
@@ -42,19 +42,23 @@ See Creating a Repository in GitHub: https://github.com/MercersKitchen/Computer-
    3. Learning JavaScript
 - Multiple Web Page, Dynamic, Website Project, Business Focus for Skills Canada
 
+#### Business Webpage, based on Skills Alberta Canada Expectations
+-
+
 ### JavaScript Projects
 
 ### Computer Apps, Introduction to Processing-JAVA
 
 ---
 
-## Website Lessons (Note: all outcomes from CSS1)
+## Website Lessons (Note: all outcomes from CSS1, CSS2, & CSS3)
    Approximate time: 6 weeks
 
 ### What are Hosting Services; and, what is a webserver?
 
 ### Starting a Multiple Page Website Project
 
+See Starting a GitHub Repository: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt">Click Here</a>
 ### JavaScript Lessons
 
 ### Multiple Web Page Website Project, Business Focus for Skills Canada
