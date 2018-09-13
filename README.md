@@ -6,15 +6,15 @@ Intermediate High School Computer Science
 
 ---
 
-### See First Day
+#### See First Day
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day">Click Here</a>
 - Main Goals: workstation routine & imaging what algorithms are
 
-### See Projects
+#### See Projects
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects">Click Here</a>
 - Main Goal: routines for prototyping & introductions to course ideas
 
-### See Creating a Repository in GitHub
+#### See Creating a Repository in GitHub
 <a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt">Click Here</a>
 - Main Goals
    1. Using GitHub Account and Creating a Repository
