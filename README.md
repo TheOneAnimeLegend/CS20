@@ -2,17 +2,20 @@
 Intermediate High School Computer Science
 
 **Table of Content**
-- Website Projects <a href="https://github.com/MercersKitchen/CS20#websites-unit-html5-using-hosting-services-or-rpi-webserver" ><p>Click Here</p></a>
+- Website Projects <a href="https://github.com/MercersKitchen/CS20#websites-unit-html5-using-hosting-services-or-rpi-webserver" >Click Here</a>
 
 ---
 
-See First Day: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day"><p>Click Here</p></a>
+### See First Day
+<a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/First%20Day">Click Here</a>
 - Main Goals: workstation routine & imaging what algorithms are
 
-See Projects: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects"><p>Click Here</p></a>
+### See Projects
+<a href="https://github.com/MercersKitchen/Computer-Science-Planning/tree/master/Projects">Click Here</a>
 - Main Goal: routines for prototyping & introductions to course ideas
 
-See Creating a Repository in GitHub: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt"><p>Click Here</p></a>
+### See Creating a Repository in GitHub
+<a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt">Click Here</a>
 - Main Goals
    1. Using GitHub Account and Creating a Repository
    2. Routine for putting initial files inside and what these might be used for
@@ -58,7 +61,9 @@ See Creating a Repository in GitHub: <a href="https://github.com/MercersKitchen/
 
 ### Starting a Multiple Page Website Project
 
-See Starting a GitHub Repository: <a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt">Click Here</a>
+See Starting a GitHub Repository:
+- <a href="">Click Here for Information Instructions to include in GitHub</a>
+- <a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt">Click Here for GitHub Instructions</a>
 ### JavaScript Lessons
 
 ### Multiple Web Page Website Project, Business Focus for Skills Canada
