@@ -62,8 +62,9 @@ Intermediate High School Computer Science
 ### Starting a Multiple Page Website Project
 
 See Starting a GitHub Repository:
-- <a href="">Click Here for Information Instructions to include in GitHub</a>
+- <a href="https://github.com/MercersKitchen/CS20#see-creating-a-repository-in-github">Click Here for Information to include in GitHub</a>
 - <a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt">Click Here for GitHub Instructions</a>
+
 ### JavaScript Lessons
 
 ### Multiple Web Page Website Project, Business Focus for Skills Canada
