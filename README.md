@@ -47,7 +47,8 @@ Intermediate High School Computer Science
 
 #### Business Webpage, based on Skills Alberta Canada Expectations
 - Case Study on paper
-- Case Study Expectations
+  - Expectations: <a href="">Click Here</a>
+- Setting up a Project Folder in GitHub with Pathways and Files: <a href="https://github.com/QEHS-Websites/Intermediate-Business-Website-Project/tree/master/Project%20Folder%20Structure">Click Here</a>
 
 ### JavaScript Projects
 
