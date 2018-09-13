@@ -2,7 +2,7 @@
 Intermediate High School Computer Science
 
 **Table of Content**
-- Website Projects, <a href="https://github.com/MercersKitchen/CS20#websites-unit-html5-using-hosting-services-or-rpi-webserver" target="_blank"><p>Click Here</p></a>
+- Website Projects <a href="https://github.com/MercersKitchen/CS20#websites-unit-html5-using-hosting-services-or-rpi-webserver" ><p>Click Here</p></a>
 
 ---
 
