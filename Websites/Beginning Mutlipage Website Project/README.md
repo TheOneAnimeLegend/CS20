@@ -14,14 +14,30 @@ Note: minimum software that must be installed for this on a Mercer's Kitchen Cla
 
 ---
 
-Steps
+## Information Needing to be Answered before beginning a Project, especially opening a GitHub Repository
+
+Main Information for ReadMe.md (External Documentation using GitHub Markdown)
+- Repository Name (done when repository made)
+- Title (can be changed or added)
+- Date
+- Author
+- 10 Word Summary (done when repository made)
+- 50 Word Description
+- Key words, based on summaries, to include with Google Analytics
+- To Do List, ordered in priority, with way to record items done (See Markdown Repository for more explanation)
+- Additional Images to see (i.e. links to Google Drive, other social media, or located in GitHub Repository)
+- Additional instructional, etc. videos (i.e. links to YouTube)
+- Note: include all references to external websites: URL & Date Accessed
+
+---
+
+## Steps
 1. Create a GitHub Repository with the following information included in the Repository Setup and ReadMe.md file
    - Repository Name, identified in GitHub only (does not need to be website name)
    - Repository Description
    - Include a ReadMe.md file (button must be clicked)
 
    - Full Steps at <a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt">Creating a GitHub Repository</a>
-
 2. Clone the Repository to the Local Drive, means using GitHub Desktop
    - Step will not work if GitHub Desktop is not installed
 3. Right-Click / New / Text Document
