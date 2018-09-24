@@ -12,7 +12,7 @@ let hair = "none"; // explore: undefined, null; origonally "none"
 // debug with typeof
 let male = true;
 let female = false;
-let other = false
+let other = false;
 
 // Print variables to console
 console.log(firstName);
