@@ -16,38 +16,38 @@ Note: minimum software that must be installed for this on a Mercer's Kitchen Cla
 
 Steps
 1. Create a GitHub Repository with the following information included in the Repository Setup and ReadMe.md file
-  - Repository Name, identified in GitHub only (does not need to be website name)
-  - Repository Description
-  - Include a ReadMe.md file (button must be clicked)
+   - Repository Name, identified in GitHub only (does not need to be website name)
+   - Repository Description
+   - Include a ReadMe.md file (button must be clicked)
 2. Clone the Repository to the Local Drive, means using GitHub Desktop
-  - Step will not work if GitHub Desktop is not installed
+   - Step will not work if GitHub Desktop is not installed
 3. Right-Click / New / Text Document
-  - Create a .txt file
-  - Rename to: index.html
+   - Create a .txt file
+   - Rename to: index.html
 4. Right-Click / New / Folder
-  - Create a new pathway (GitHub shows as a pathway by default, Windows shows as a folder by default)
+   - Create a new pathway (GitHub shows as a pathway by default, Windows shows as a folder by default)
 5. Repeat Folder and Text File creation for the following pathways:
-  - child_pages/template.html
-  - styles
-    - index.css
-    - template.css
-  - scripts
-    - index.js
-    - template.js
-  - Images
-  - Videos
-  - Media
+   - child_pages/template.html
+   - styles
+     - index.css
+     - template.css
+   - scripts
+     - index.js
+     - template.js
+   - Images
+   - Videos
+   - Media
 6. Add ReadMe.md files to each folder or pathway
-  - Copy the original ReadMe.md to the new folder
-  - Open in Atom (or WYSIWYG)
-  - Change the Contents: title and description
-  - Add any notes necessary
+   - Copy the original ReadMe.md to the new folder
+   - Open in Atom (or WYSIWYG)
+   - Change the Contents: title and description
+   - Add any notes necessary
 7. Open all .html files and add Boilerplate
-  - In empty HTML File, type html
-  - Add all additional items:
-    - Meta Tags
-    - HTML Layout Starter Tabs
-    - Note: footer copyright, quote, and image are all personal choice but included in exemplar
+   - In empty HTML File, type html
+   - Add all additional items:
+     - Meta Tags
+     - HTML Layout Starter Tabs
+     - Note: footer copyright, quote, and image are all personal choice but included in exemplar
 
 **See the Exemplar Completed Project Folder at ...**
 https://github.com/MercersKitchen/CS20/tree/master/Websites/Intermediate%20Boilerplate
