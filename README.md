@@ -1,6 +1,15 @@
 # CS20: Computer Science 20
 Intermediate High School Computer Science
 
+**Pathways and Contents**
+Note: this list contains starter code, see below and links to additional ReadMe.md files for instructions and EMail Mr. Mercer for more information.
+
+- Websites: Focus on HTML5
+  - Boilerplate: folders and files
+  - JavaScript Lessons
+    - Swapping Variables: making memories with primitive variables, objects (dot and ???), and arrays
+  -
+
 **Table of Content**
 - Website Projects <a href="https://github.com/MercersKitchen/CS20#websites-unit-html5-using-hosting-services-or-rpi-webserver" >Click Here</a>
 
