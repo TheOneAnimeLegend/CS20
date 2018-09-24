@@ -43,6 +43,7 @@ Note: this list contains starter code, see below and links to additional ReadMe.
    3. Using W3 Schools as a review & enrichment of HTML & CSS: https://www.w3schools.com/
    3. Learning JavaScript
 - Multiple Web Page, Dynamic, Website Project, Business Focus for Skills Canada
+- OPTIONAL: Progressive Web App, Portfolio hosting in GitHub
 
 #### Business Webpage, based on Skills Alberta Canada Expectations
 - Case Study on paper
@@ -55,26 +56,7 @@ Note: this list contains starter code, see below and links to additional ReadMe.
 
 ---
 
-
-###
-
-### Starting a Multiple Page Website Project
-
-See Starting a GitHub Repository:
-- <a href="https://github.com/MercersKitchen/CS20#see-creating-a-repository-in-github">Click Here for Information to include in GitHub</a>
-- <a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt">Click Here for GitHub Instructions</a>
-
-### JavaScript Lessons
-
-### Multiple Web Page Website Project, Business Focus for Skills Canada
-- Review Single Page, Static, Website Project: Holocaust Essay Project hosted Locally
-
-
-### OPTIONAL: Progressive Web App, Portfolio
-
----
-
 # Ideas to Include
 
-Skills Alberta Canada Main Business Project Guidance
-Portfolio PWA Template
+
+---

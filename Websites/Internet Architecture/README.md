@@ -6,6 +6,7 @@ Description of Assignment and Instructions
 # Ideas
 
 Website Lessons (Note: all outcomes from CSS1, CSS2, & CSS3)
+- Approximate time: 6 weeks
 
 What are Hosting Services; and, what is a webserver?
 
