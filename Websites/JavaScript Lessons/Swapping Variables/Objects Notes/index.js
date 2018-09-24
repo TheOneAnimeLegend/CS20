@@ -29,6 +29,5 @@ console.log(JaneDoe);
 
 // Print individaul object keys to the console
 // Notice we can now save mutliple values in a data structure to primitive declarations
-
 console.log(MarkMercer.firstName);
 console.log(JaneDoe.firstName);
