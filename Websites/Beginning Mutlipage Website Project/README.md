@@ -19,6 +19,9 @@ Steps
    - Repository Name, identified in GitHub only (does not need to be website name)
    - Repository Description
    - Include a ReadMe.md file (button must be clicked)
+
+   - Full Steps at <a href="https://github.com/MercersKitchen/Computer-Science-Planning/blob/master/Projects/Creating%20a%20GitHub%20Repository.txt">Creating a GitHub Repository</a>
+
 2. Clone the Repository to the Local Drive, means using GitHub Desktop
    - Step will not work if GitHub Desktop is not installed
 3. Right-Click / New / Text Document
