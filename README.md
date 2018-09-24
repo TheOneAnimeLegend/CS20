@@ -29,17 +29,7 @@ Note: this list contains starter code, see below and links to additional ReadMe.
    1. Using GitHub Account and Creating a Repository
    2. Routine for putting initial files inside and what these might be used for
 - Main Information for ReadMe.md (External Documentation using GitHub Markdown)
-   - Repository Name (done when repository made)
-   - Title (can be changed or added)
-   - Date
-   - Author
-   - 10 Word Summary (done when repository made)
-   - 50 Word Description
-   - Key words, based on summaries, to include with Google Analytics
-   - To Do List, ordered in priority, with way to record items done (See Markdown Repository for more explanation)
-   - Additional Images to see (i.e. links to Google Drive, other social media, or located in GitHub Repository)
-   - Additional instructional, etc. videos (i.e. links to YouTube)
-   - Note: include all references to external websites: URL & Date Accessed
+  - <a href="https://github.com/MercersKitchen/CS20/tree/master/Websites/Beginning%20Mutlipage%20Website%20Project#information-needing-to-be-answered-before-beginning-a-project-especially-opening-a-github-repository">Click Here for detailed list of information needed</a>
 - Other Documents, at start, to be included in Repository
 
 ---
@@ -65,10 +55,8 @@ Note: this list contains starter code, see below and links to additional ReadMe.
 
 ---
 
-## Website Lessons (Note: all outcomes from CSS1, CSS2, & CSS3)
-   Approximate time: 6 weeks
 
-### What are Hosting Services; and, what is a webserver?
+###
 
 ### Starting a Multiple Page Website Project
 
