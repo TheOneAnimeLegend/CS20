@@ -15,7 +15,10 @@ Create a skipCount FOR Loop
 
 To Do
 - Create a skipCounting Function, must also choose proper parameters and arguments
--  Modulus: even or odd
-
+- Modulus: even or odd
+- Simple Comparisons, include simple Operator until IF Statement evaluates to true
+- Ternary Operator: Gold-Silver
+- Falsy: default and user-initiated
+- Biswise Example: read, write, execute permissions
 
 ---
