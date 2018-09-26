@@ -9,8 +9,13 @@ function simpleOperators (numberA, numberB){
   console.log(divide);
 }
 
-let number = [4, 7];
+let number = [4, 7, 13, 99];
 simpleOperators (number[0], number[1]);
+simpleOperators (number[2], number[3]);
 
-
-let skipCount
+let skipCount = 15;
+console.log(skipCount);
+for (let i=1; i<=5; i++){
+  skipCount *= 3;
+  console.log(skipCount);
+}
