@@ -16,7 +16,9 @@ function skipCounting (skipCount, times, startingNumber){
     console.log(number);
   }
 }
+
 let number = [4, 7, 13, 99];
 simpleOperators (number[0], number[1]);
 simpleOperators (number[2], number[3]);
 skipCounting (3, 6, 113);
+skipCounting (8, 11, -351);
