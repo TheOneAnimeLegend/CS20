@@ -22,11 +22,14 @@ Review: FOR Loop and variables in terms of actual arithmetic sequences
 - Write the sentence as a comment & instructions for the function
 
 To Do
-- Create a skipCounting Function, must also choose proper parameters and arguments
-- Modulus: even or odd
-- Simple Comparisons, include simple Operator until IF Statement evaluates to true
-- Ternary Operator: Gold-Silver
+- Simple Comparisons, include simple operator until IF Statement evaluates to true
+  - Notice this was already included in the FOR Loop for incrementing the index
+- Strict and Loose Equality (string vs. number example)
+- Not Equality, and utility in the "opposite", or Euler Diagram of Not
+- Ternary Operator: Gold-Silver Example
 - Falsy: default and user-initiated
 - Biswise Example: read, write, execute permissions
+- Modulus: even or odd (Odd or Even Number example)
+
 
 ---
