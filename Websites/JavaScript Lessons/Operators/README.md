@@ -25,11 +25,19 @@ To Do
 - Simple Comparisons, include simple operator until IF Statement evaluates to true
   - Notice this was already included in the FOR Loop for incrementing the index
 - Strict and Loose Equality (string vs. number example)
-- Not Equality, and utility in the "opposite", or Euler Diagram of Not
-- Ternary Operator: Gold-Silver Example
+- Not Equality, and utility in the "opposite", or Euler Diagram of Not (demonstrate this)
+- Ternary Operator (Gold-Silver Example)
 - Falsy: default and user-initiated
 - Biswise Example: read, write, execute permissions
 - Modulus: even or odd (Odd or Even Number example)
 
+- Simple Comparisons (Example: Simple function of arithmetic sequence, re-called in a WHILE Loop until condition evaluates to true)
+  - "How many times does it take to skipCount to 100 if you start at 5 and skip count by 4's?"
+  - Solution: use the skipCounting function and a WHILE Loop with a conditional
+  - Note: this is different than a FOR Loop since we do not know how many times this will repeat
+- Notice this was already included in the FOR Loop for incrementing the index
+- Strict and Loose Equality (string vs. number example)
+- Not Equality, and utility in the "opposite", or Euler Diagram of Not
+- Ternary Operator (Gold-Silver Example)
 
 ---
