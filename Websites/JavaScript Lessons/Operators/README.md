@@ -41,3 +41,25 @@ To Do
 - Ternary Operator (Gold-Silver Example)
 
 ---
+
+# Ideas
+Create a WHILE Loop with an infinite loop
+```javascript
+while (number <= 100) {
+  let number = 0;
+  console.log(number);
+  number += 5;
+  }
+```
+Continue to Work with Infitie Loops
+Shrink this code
+``````javascript
+function howManyTimes (numberStart, numberEnd, skipCount) {
+  while (numberStart < numberEnd) {
+    console.log(numberStart);
+    numberStart += skipCount;
+  }
+}
+```
+
+---
