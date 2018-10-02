@@ -33,7 +33,26 @@ function StrictEquality (firstOperand, secondOperant) {
   console.log(firstOperand === secondOperant);
 }
 
+//function notEqual(valueArray, i) { //When to stop in an array data set
+//  if (valueArray !=5) { //This is when we do stop, so we accept every other value (common logic for "not")
+//    console.log(number[i], "Is index number: ", i, "with a total array index of ", number.length);
+//    return i;
+//  } else {console.log("5 is at the index", i); i=number.length} //once we stop, we want to jump out of the loop
+
+//}
+
+//Not Equality Starter Code
+//Outputing individual values of an array, we want to start stop at the value 5, where ever it is in the array
+//for (let i=0; i<number.length; i++) { //we do not know when to stop in the array
+
+//}
+
 let number = [4, 7, 13, 99, 0, 100, 5, 1, '1']; //able to add any typeof to an array, index is automatic
+//for(let i=0; i==done; i++) {
+//  notEqual (if i == number[i], i );
+//}
+
+
 //simpleOperators (number[0], number[1]);
 //simpleOperators (number[2], number[3]);
 //skipCounting (3, 6, 113);
@@ -47,12 +66,17 @@ let number = [4, 7, 13, 99, 0, 100, 5, 1, '1']; //able to add any typeof to an a
 //StrictEquality (number[8], number[7]); // Returns False, compares typeof variable and value
 
 
-//Not Equality Starter Code
-//Outputing individual values of an array, we want to start stop at the value 5, where ever it is in the array
-//for (let i=0; i<number.length; i++) { //we do not know when to stop in the array
-//  if (number[i] !=5) { //This is when we do stop, so we accept every other value (common logic for "not")
-//  console.log(number[i], "Is index number: ", i, "with a total array index of ", number.length);
-//} else {console.log("5 is at the index", i); i=number.length} //once we stop, we want to jump out of the loop
-//}
 //Introduces Break and Continue Code
 //See: https://github.com/QEHS-Websites/JavaScript-Sandbox/tree/master/Control%20Flow#break-and-continue-key-words-and-loop-concepts
+
+
+//Using falsy: preferences
+//let userColor = 'red'; //User not defined yet
+//let defaultColor = 'blue'; //Default colour chosen by developer
+let currentColor = userColor || defaultColor;
+//console.log(currentColor); //returns "blue
+
+//If a customer has more than 100 points, they are gold, otherwise silver
+let points = 110;
+let type = points > 100 ? 'gold' : 'silver' //points > 100 returns a Boolean; when true assigns string of gold, otherwise silver
+console.log(type); //Returns "silver" in console since false
