@@ -9,10 +9,14 @@ Using this Progressions - Create Coding Challenges
 - Use simple flowcharts to illustrate the different functions
 - Scaffold with beginning functions and other starter code
 
+- Idea: CS20 Pathways contain beginner code, JavaScript-Sandbox Contains teacher notes and solutions
+
 Reminder: repeats concepts of ...
 - Variables
 - Decisions and Conditions
 - Iterations
+
+Note: the index.js ran for each function and other code to illustrate everything executes
 
 ## Progressions and Notes
 - Two primitive variables
