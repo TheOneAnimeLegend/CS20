@@ -21,6 +21,6 @@ Multiple Web Page Website Project, Business Focus for Skills Canada
 
 Portfolio PWA Template
 
-Use boarder around image divs
+Use boarder around image DIVs
 
-ALso use button to turn these off when styling these
+Also use button to turn these off when styling these
