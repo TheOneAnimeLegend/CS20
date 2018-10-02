@@ -15,9 +15,10 @@ Simple Expectations
 Intermediate Expectations
 - Return the amount of odd numbers
 - Return the amount of even numbers
-- Concatenate the answers to know which is which when these are printed out
+- Use an array data structure to store the even numbers and odd numbers separately
+- Use an array structure to create a memory of the actual sequence used
 
-Modulus Assignment Expectations
+Modulus Assignment Expectations and Case Study Guide (use Starting JavaScript too)
 - Create a program that skip counts through a sequence of 20 numbers
 - For each even number, save it into an evenArray
 - For each odd number, save it into an oddArray
@@ -29,6 +30,7 @@ Modulus Assignment Expectations
 Coding Concepts to try to include
 - Tertiary Operator
 
+Starting JavaScript
 ```JavaScript
 let number = [___, ___]; //Boundary Numbers
 let skipCount = ___; //Number of skipCounting between each element of the sequence, used in FOR Loop
