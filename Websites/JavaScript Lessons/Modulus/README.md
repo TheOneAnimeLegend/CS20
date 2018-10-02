@@ -3,10 +3,11 @@ Description of Assignment
 
 **Under Construction**
 
-Situation: Return even and then odd numbers to a specific number
+Situation: Return even and then odd numbers to two specific number, must be at least 20 number apart
 
 Simple Expectations
 - Begin with two hardcoded variables (able to change this in the console, a way of grading and simulating user-initiated content)
+- Log to the Console, using subtraction, how far apart these numbers are
 - Return the odd numbers between these two variables
 - Return even numbers between two hardcoded variables
 - Concatenate the answers to know which is which when these are printed out
@@ -27,6 +28,17 @@ Modulus Assignment Expectations
 
 Coding Concepts to try to include
 - Tertiary Operator
+
+```JavaScript
+let number = [___, ___]; //Boundary Numbers
+let skipCount = ___; //Number of skipCounting between each element of the sequence, used in FOR Loop
+let difference = number[] - number[]; //Difference, mandatory expectation
+let startingNumber = number[]; //Hint: used in the FOR Loop
+for (let i=0; i<=difference; i++){
+  even = (startingNumber += skipCount) % 2;
+  console.log("This number is", even, "; This iteration is number", i+skipCount); //Example of Concatenating
+}
+```
 
 ---
 
