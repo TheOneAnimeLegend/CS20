@@ -7,6 +7,7 @@ Breif Order of Pathways
 - Swapping Variables
 - Operators
 - Modulus Assignment
+- Greeting Someone (based on the hour of the day)
 - 
 
 ---

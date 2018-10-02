@@ -6,7 +6,7 @@ Description of Assignment
 Situation: Return even and then odd numbers to a specific number
 
 Simple Expectations
-- Begin with two hardcoded variables (hard coded variables simulates user initiated content)
+- Begin with two hardcoded variables (able to change this in the console, a way of grading and simulating user-initiated content)
 - Return the odd numbers between these two variables
 - Return even numbers between two hardcoded variables
 - Concatenate the answers to know which is which when these are printed out
