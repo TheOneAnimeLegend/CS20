@@ -59,7 +59,7 @@ let number = [4, 7, 13, 99, 0, 100, 5, 1, '1']; //able to add any typeof to an a
 
 //Not Equality Starter Code, no function defined here yet
 //Computer first uses TRUE to evaluate ideas, "not" provides an answer of TRUE
-//Outputing individual values of an array, we want to  stop at the value 5, but we do not know where it is in the array (do not know the index value)
+//Outputing individual values of an array, we want to stop at the value 5, but we do not know where it is in the array (do not know the index value)
 //Must Read the Array with a FOR Loop
 /*
 for (let i=0; i<number.length; i++) { //we do not know when to stop in the array
@@ -74,6 +74,6 @@ for (let i=0; i<number.length; i++) { //we do not know when to stop in the array
 
 //Using Tertiary Operator
 //If a customer has more than 100 points, they are gold, otherwise silver
-console.log(customerType (90));
+//console.log(customerType (90)); //WIll this return 'Gold' or 'Silver'
 
 //Not finished is bitwise example
