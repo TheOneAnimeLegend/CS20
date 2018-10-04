@@ -8,11 +8,32 @@ Breif Order of Pathways
 - Operators
 - Modulus Assignment
 - Greeting Someone (based on the hour of the day)
-- 
+- Max of Two Numbers
+- Landscape or Portrait
 
 ---
 
-# Ideas
 
+# Ideas
+Include index.html & index.js
+
+Assignments should be formatted like
+
+Problem Situation -
+
+Output to the Console
+-
+
+Case Study Details
+-
+
+Developing the Algorithm
+-
+
+Starter Code to Consider
+-
+```
+
+```
 
 ---

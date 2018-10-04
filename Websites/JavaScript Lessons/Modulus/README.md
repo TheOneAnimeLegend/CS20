@@ -46,5 +46,21 @@ for (let i=0; i<=difference; i++){
 
 # Ideas
 
+Rewrite to Look Like
+
+Problem Situation -
+
+Output to the Console
+-
+
+Case Study Details
+-
+
+Developing the Algorithm
+-
+
+Starter Code to Consider
+-
+
 
 ---

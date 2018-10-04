@@ -47,5 +47,20 @@ Coding Concepts to try to include
 
 # Ideas
 
+Rewrite to Look Like
+
+Problem Situation -
+
+Output to the Console
+-
+
+Case Study Details
+-
+
+Developing the Algorithm
+-
+
+Starter Code to Consider
+-
 
 ---
