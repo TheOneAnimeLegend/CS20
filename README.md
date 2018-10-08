@@ -11,8 +11,8 @@ Note: this list contains starter code, see below and links to additional ReadMe.
   - Beginning Multipage Website Project, <a href="">Click Here</a>
   - Intermediate Boilerplate: folders and files, <a href="">Click Here</a>
   - Internet Architecture, <a href="">Click Here</a>
-  - JavaScript Lessons, <a href="">Click Here</a>
-  - JavaScript and HTML Interactions, <a href="">Click Here</a>
+  - JavaScript Lessons, <a href="">Click Here</a>, Submission through Google Formums and Sharing GitHub URLs
+  - JavaScript and HTML Interactions, <a href="">Click Here</a>, Submission throght GitHub Education and copying important files to various directories (pathways)
   -
 
 **Table of Content**
