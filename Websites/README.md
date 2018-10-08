@@ -42,3 +42,61 @@ Video 5 Notes: https://www.youtube.com/watch?v=4wxRnsmNGpc&feature=youtu.be
 - Note: background-color changes can increase contrast, making reading easier (not on white background)
 - Note: in aXe validator, will analyze color contrast in Learn More
 - Note: Checking Accessibility
+
+Video 6 Notes
+- https://www.youtube.com/watch?v=OGwKOxh5hqQ&feature=youtu.be
+
+This video developing a Form, what else needs to happen in Introductory?
+
+Notes
+- First build a Form
+- Second, add colour with Style Sheets
+- First is line to make sure nothing happens, for testing
+
+- ensures nothing happens on the "x" html page, that doesn't exist
+
+Build a Form in HTML: all typing is in Video, review the video again to add all the typing
+
+Go to paletton.com; or http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
+
+Get the triad and complimentary colours: time is about 7 minutes
+
+Click on "Triad" and "Add Complimentary"
+
+Look at definition for Compliementary Colour (opposite side of colour wheel)
+
+Able to turn the colour wheel until we find colours we like, and can make darker or lighter
+
+To get the colours, click on
+
+Tables, Export
+
+Colour List as CSS
+
+Copy the first 3 Lines, including URL for Colour Scheme, paste into CSS File as reference
+
+Pick the colours wanted, must pick the same numbers (all 0, or 1, or 2)
+
+Make comments about primary, secondary, etc.
+
+Copy the css export
+
+create comment into css file
+
+next create the foreground and background colours, then make sure they pass accessibility
+
+Test the contrast using another Tool from aXe
+
+https://dequeuniversity.com/rules/axe/2.2/color-contrast?application=lighthouse
+
+find one of colours to get the highest contrast ratio
+
+Next, play with lightness of colours : changes hue and saturation
+
+Question: do you want light on dark, or dark on light?
+
+Make Comments about the new colours we will have
+
+Continue to choose colours for the entire page
+
+Colour Wheel: warm and cool colours
