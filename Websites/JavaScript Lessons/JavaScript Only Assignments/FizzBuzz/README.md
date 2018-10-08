@@ -9,8 +9,9 @@ Problem Situation - Answer FizzBuzz, a popular interview question
   - Divisible by 5 = Buzz
   - Divisible by both 3 & 5 = FizzBuzz
   - Not Divisible by 3 or 5 = Input
-  - Not a number = "Not a Number", may need to explain Not a Number
+  - Not a number = "Not a Number", may need to explain Not a Number (NaN)
 - CAUTION: the order of this logic is out of order, considering the code
+- NaN are non-real numbers, like "division by zero" or "root of -1"
 
 Output to the Console: concatenation to describe Boolean
 - Fizz
@@ -31,19 +32,22 @@ Case Study Details
 - a
 
 Developing the Algorithm
-- a
+- Ordering the Logic
+- Combination with return keyword, locks out the rest of the code
 
 Starter Code to Consider
 - Beginning Code
 ```JavaScript
+const testNumber = ;
+console.log(fizzBuzz(testNumber)); //Calling Function
 
-
-```
-
-- Advanced Code
-```JavaScript
-
-
+function fizzBuzz (input) { //These match order of logic
+  if (input % 3 === 0) return "Fizz";
+  if (input % 5 === 0) return 'Buzz';
+  if ((input % 3 === 0 ) && (input % 5 === 0)) return 'FizzBuss';
+  if (typeof input !=='number') return 'This is not a number.'; //Change to NaN
+  return "This test number does nothing important. The input was " + input + ".";
+}
 ```
 
 Reminder: use the tertiary operator
