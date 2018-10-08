@@ -18,6 +18,7 @@ Basic Form Introduction and JavaScript Interactions
 - Basic Form, <a href="https://github.com/MercersKitchen/CS20/tree/master/Websites/Intermediate%20Boilerplate/Basic%20Form%20Collection">Click Here</a>
 
 
+
 ---
 
 
@@ -42,7 +43,7 @@ Developing the Algorithm
 -
 
 Starter Code to Consider
--
+- 
 
 Reminder: use the tertiary operator
 
