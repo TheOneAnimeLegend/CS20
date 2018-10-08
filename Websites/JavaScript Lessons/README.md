@@ -3,13 +3,20 @@ Breif Order of Pathways
 
 **Under Construction**
 
+JavaScript Introductions
 - Create 10 Variables
 - Swapping Variables
 - Operators
+
+JavaScript Only Assignments
 - Modulus Assignment
 - Greeting Someone (based on the hour of the day)
 - Max of Two Numbers
 - Landscape or Portrait
+
+Basic Form Introduction and JavaScript Interactions
+- Basic Form, <a href="">Click Here</a>
+
 
 ---
 
@@ -35,7 +42,7 @@ Developing the Algorithm
 -
 
 Starter Code to Consider
-- 
+-
 
 Reminder: use the tertiary operator
 
