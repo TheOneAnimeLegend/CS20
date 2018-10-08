@@ -20,20 +20,28 @@ Include index.html & index.js
 Assignments should be formatted like
 
 Problem Situation -
+- Input
+- Logic Of Situation
+  -
+-
 
 Output to the Console
 -
 
 Case Study Details
--
+- Test Cases (boundaries of the Problem Situation)
 
 Developing the Algorithm
 -
 
 Starter Code to Consider
--
-```
+- 
 
-```
+Reminder: use the tertiary operator
+
+---
+
+# Ideas
+
 
 ---
