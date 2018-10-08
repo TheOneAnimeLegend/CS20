@@ -83,14 +83,7 @@ NOTE: This assignment very similar to Landscape or Portrait: Monitor Geometry
 ---
 
 # Ideas
-Include index.html & index.js
-let number = max (1,2);
+Include Form to input data
 
-function max(number1, number 2) {
-  if (a>b) return a;
-  else return b; //Else not needed since it will happen regardless
-}
 
-Using Tertiary Operator
-if (a>b) ? a : b;
 ---
