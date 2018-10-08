@@ -24,3 +24,7 @@ Portfolio PWA Template
 Use boarder around image DIVs
 
 Also use button to turn these off when styling these
+
+Use Ternary Operator as Full Solution
+
+Use Forms to Input data
