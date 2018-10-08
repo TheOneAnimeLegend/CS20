@@ -2,7 +2,7 @@
 Intermediate High School Computer Science
 
 **UNDER CONSTRUCTION**
-
+- **Descriptions and Explanations need to be improved, including navigation**
 
 **Pathways and Contents**
 Note: this list contains starter code, see below and links to additional ReadMe.md files for instructions and EMail Mr. Mercer for more information.
@@ -13,7 +13,7 @@ Note: this list contains starter code, see below and links to additional ReadMe.
   - Internet Architecture, <a href="">Click Here</a>
   - JavaScript Lessons, <a href="">Click Here</a>
   - JavaScript and HTML Interactions
-  - 
+  -
 
 **Table of Content**
 UNDER CONSTRUCTION
