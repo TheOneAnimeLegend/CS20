@@ -25,12 +25,7 @@ Basic Form Introduction and JavaScript Interactions
   - Prime Numbers
 - a
 
-
-
-
-
 ---
-
 
 # Ideas
 Include index.html & index.js

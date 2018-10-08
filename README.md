@@ -12,7 +12,7 @@ Note: this list contains starter code, see below and links to additional ReadMe.
   - Intermediate Boilerplate: folders and files, <a href="">Click Here</a>
   - Internet Architecture, <a href="">Click Here</a>
   - JavaScript Lessons, <a href="">Click Here</a>
-  - JavaScript and HTML Interactions
+  - JavaScript and HTML Interactions, <a href="">Click Here</a>
   -
 
 **Table of Content**
