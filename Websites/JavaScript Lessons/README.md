@@ -30,20 +30,20 @@ Assignments should be formatted like
 Problem Situation -
 - Input
 - Logic Of Situation
-  -
--
+  - a
+- a
 
 Output to the Console
--
+- a
 
 Case Study Details
 - Test Cases (boundaries of the Problem Situation)
 
 Developing the Algorithm
--
+- a
 
 Starter Code to Consider
-- 
+- a
 
 Reminder: use the tertiary operator
 
