@@ -26,6 +26,7 @@ Developing the Algorithm
 
 Coding Reminder: using tertiary operator
 - See Mr. Mercer's Full Solution, <a href="https://github.com/QEHS-Websites/JavaScript-Sandbox/tree/master/Solutions%20to%20CS20%20Assignments/Max%20of%20Two%20Numbers">Click Here</a>
+
 Full Marks for
 - Single Line Function Call
 - Single Line Output
