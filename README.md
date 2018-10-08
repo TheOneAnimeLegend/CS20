@@ -1,6 +1,9 @@
 # CS20: Computer Science 20
 Intermediate High School Computer Science
 
+**UNDER CONSTRUCTION**
+
+
 **Pathways and Contents**
 Note: this list contains starter code, see below and links to additional ReadMe.md files for instructions and EMail Mr. Mercer for more information.
 
@@ -9,8 +12,8 @@ Note: this list contains starter code, see below and links to additional ReadMe.
   - Intermediate Boilerplate: folders and files, <a href="">Click Here</a>
   - Internet Architecture, <a href="">Click Here</a>
   - JavaScript Lessons, <a href="">Click Here</a>
-    - Swapping Variables: making memories with primitive variables, objects (dot and ???), and arrays
-  -
+  - JavaScript and HTML Interactions
+  - 
 
 **Table of Content**
 UNDER CONSTRUCTION
