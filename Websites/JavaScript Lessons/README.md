@@ -58,6 +58,7 @@ Reminder: use the tertiary operator
 
 # Ideas
 Add the following JavaScript Assignemnts
+
 See: https://github.com/QEHS-Websites/JavaScript-Sandbox/tree/master/IOP%20Computational%20Exercises#landscape-or-portrait
 - Prime Numbers
 - Even and Odd Numbers
@@ -65,6 +66,5 @@ See: https://github.com/QEHS-Websites/JavaScript-Sandbox/tree/master/IOP%20Compu
 - String Properties in an Object
 - Sum of Multiples of 3 and 5
 - Stars
-- 
 
 ---
