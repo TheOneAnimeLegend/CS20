@@ -67,4 +67,11 @@ See: <a href="https://github.com/QEHS-Websites/JavaScript-Sandbox/tree/master/IO
 - Sum of Multiples of 3 and 5
 - Stars
 
+Need a better way of introducing a lot of the arithmetic tracking
+- handout like in math 1/2 page or 1 page?
+
+Need better sequence to JavaScript Lessons
+- Build code (functions, arrays, variables, constants, IF statements and importance of TRUE, order of RETURN)
+- Build "arithemtic echoes"
+
 ---
