@@ -59,7 +59,7 @@ Reminder: use the tertiary operator
 # Ideas
 Add the following JavaScript Assignemnts
 
-See: https://github.com/QEHS-Websites/JavaScript-Sandbox/tree/master/IOP%20Computational%20Exercises#landscape-or-portrait
+See: <a href="https://github.com/QEHS-Websites/JavaScript-Sandbox/tree/master/IOP%20Computational%20Exercises#landscape-or-portrait">Click Here</a>
 - Prime Numbers
 - Even and Odd Numbers
 - Count Truthy
