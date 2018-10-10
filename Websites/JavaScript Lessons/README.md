@@ -13,7 +13,8 @@ JavaScript Only Assignments
 - Greeting Someone (based on the hour of the day)
 - Max of Two Numbers
 - Landscape or Portrait
-- FizzBuzz (ordering return logic)
+- FizzBuzz (ordering "RETURN" logic)
+- Ordering Grades (easier ordering "RETURN" Logic)
 
 Basic Form Introduction and JavaScript Interactions
 - Basic Form, <a href="https://github.com/MercersKitchen/CS20/tree/master/Websites/Intermediate%20Boilerplate/Basic%20Form%20Collection">Click Here</a>
