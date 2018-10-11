@@ -22,10 +22,11 @@ Starter Code
 const marks = []; //add grades as an array
 
 //Use the calculatedGrade function as an output to the console
-console.log (calculatedGrade(mark));
+//Note: example of using functions more than once (calculateAverage is used in console.log and calculatedGrade)
+console.log ("My letter grade is", calculatedGrade (average), "because my numerical average is", calculateAverage (marks));
 
 //This function uses another function, call Single Concern Function (able to use either function for various purposes)
-function calculatedGrade(marks) {
+function calculatedGrade (marks) {
   const average = calculateAverage (marks);
   if (average < 60) return ''; //Add appropriate grade or feedback
   if () return ''; //Add approriate conditional
