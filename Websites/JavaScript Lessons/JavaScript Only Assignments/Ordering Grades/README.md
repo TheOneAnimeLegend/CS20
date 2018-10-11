@@ -44,6 +44,6 @@ function calculteAverage (array) {
 ---
 
 # Ideas to Include
-
+Add HTML and JS
 
 ---

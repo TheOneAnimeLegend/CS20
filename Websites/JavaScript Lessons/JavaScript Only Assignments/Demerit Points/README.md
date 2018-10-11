@@ -39,6 +39,6 @@ function checkSpeed (speed) {
 ---
 
 # Ideas to Include
-
+Add HTML and JS
 
 ---
