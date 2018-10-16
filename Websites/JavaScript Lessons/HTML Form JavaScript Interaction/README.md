@@ -7,7 +7,7 @@ Verifying Data and Executing JavaScript Through Functions
 - A main page will link to all working assignments
 - Each child page will have text inputs and radio or checkboxes for test cases (mathematical boundaries to empirically test the data)
 
-Steps in Creating a an HTML Form (Input & Output) using JavaScript to Processes Information
+Steps in Creating an HTML Form (Input & Output) using JavaScript to Processes Information
 - Copy the <a href="https://github.com/MercersKitchen/CS20/tree/master/Websites/Intermediate%20Boilerplate/Basic%20Form%20Collection">HTML Form Boilerplate example</a>
   - In this repository, this will be the child_pages/childTemplate.html
   - This template should be all the layout needed for the majority of all the pages
