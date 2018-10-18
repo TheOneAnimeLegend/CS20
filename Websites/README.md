@@ -16,6 +16,18 @@ Progress
   - Demonstration of code and links necessary to run multiple HTML & JavaScript Pages
 - Note: this will lead into writing and linking CSS files
 
+Resources for Creating Websites
+1. https://www.w3schools.com/
+  - HTML
+  - CSS
+  - JavaScript
+2. JS Fiddle: https://jsfiddle.net/
+3. HTML Markup Validation: https://validator.w3.org/#validate_by_upload
+4. CSS Markup Validation: https://jigsaw.w3.org/css-validator/validator.html.en#validate_by_upload
+5. Accessibility Validation: Chrome Web Store / Extensions / aXe by Deque Systems (Deque University)
+
+Example Videos using Accessibility: https://youtu.be/OGwKOxh5hqQ?t=5m28s
+
 ---
 
 # Ideas
