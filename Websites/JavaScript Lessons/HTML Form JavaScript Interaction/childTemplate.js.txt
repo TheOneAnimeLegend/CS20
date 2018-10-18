@@ -22,7 +22,8 @@ function main () {
     document.getElementById("large").innerHTML = "Restart because I said so." //Change to more appropriate message
   }
   else {
-    console.log("This display geometry is", geometry (firstNumber, secondNumber)); //Difference between calling functions with arguements and sending to parameter's, local variables
-    document.getElementById("large").innerHTML = "This display geometry is " + geometry (firstNumber, secondNumber);
+    //Difference between calling functions with arguements and sending to parameter's, local variables
+    console.log("What did you say", geometry (firstNumber, secondNumber)); // Change to more appropriate message
+    document.getElementById("large").innerHTML = "What did you say " + geometry (firstNumber, secondNumber);
   }
 }
