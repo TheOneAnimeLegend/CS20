@@ -48,4 +48,22 @@ Step through the code with a ReadMe.md file
 - What happens next in the JavaScript
 - What happens next back in the HTML
 
+See: https://github.com/QEHS-Websites/JavaScript-HTML-Interactions/edit/master/README.md for ideas
+
+Input Two numbers
+Output Largest
+
+JavaScript Output: https://www.w3schools.com/js/js_output.asp
+- Writing into an HTML element, using innerHTML.
+- Writing into the HTML output using document.write().
+- Writing into an alert box, using window.alert().
+- Writing into the browser console, using console.log().
+
+Research
+- https://www.w3schools.com/js/js_validation.asp
+- https://www.w3schools.com/js/tryit.asp?filename=tryjs_validation_number
+
+- Reduce code my writing more functions
+- Should include ALERTs cleaner
+
 ---
