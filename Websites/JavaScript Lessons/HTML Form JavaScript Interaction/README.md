@@ -42,6 +42,8 @@ How this form will be used in the JavaScript Lessons
 See: https://github.com/QEHS-Websites/JavaScript-Sandbox/tree/master/Form%20HTML%20JavaScript%20Interaction
 - Two Number Comparison
 
+Also see: https://github.com/QEHS-Websites/JavaScript-HTML-Interactions
+
 Step through the code with a ReadMe.md file
 - What is read first, second
 - What happens next in the HTML

@@ -50,6 +50,10 @@ Use Ternary Operator as Full Solution
 
 Use Forms to Input data
 
+See: https://css-tricks.com/helping-a-beginner-understand-getting-a-website-live/
+
+---
+
 ## Example Table Lesson
 
 As a final Assignment: combine all websites and assignments into one doc
