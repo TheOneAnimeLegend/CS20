@@ -6,7 +6,16 @@ Description of Assignment and Instructions
 Progress
 - Develop Ideas about Variables and Data Structures
 - Write Functions (non-return, return, nested)
-- Develop ideas about computation, operators, etc.
+- Develop outcomes about computation, operators, etc.
+- Introduce various ways of writing variables: arrays and objects
+- Complete JavaScript Lessons outputted to the console, for prototyping
+- Build HTML-JavaScript Interactions using a Submit Button to run a JavaScript Function called main()
+  - Connected to OOP concept of constructors and classes, but in procedural programming
+- Build individual webpages of HTML Form Data Content connected to JavaScript Assignments
+- Build a website of all JavaScript Assignments
+  - Demonstration of code and links necessary to run multiple HTML & JavaScript Pages
+- Note: this will lead into writing and linking CSS files
+
 ---
 
 # Ideas
