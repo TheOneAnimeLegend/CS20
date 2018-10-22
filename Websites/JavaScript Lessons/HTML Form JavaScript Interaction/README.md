@@ -31,6 +31,14 @@ Steps in Adding this form to a multiple page website (the example given in this 
 - Copy a childTemplage.html doc and rename to a new doc.html
   - Do the same for childTemplate.js
 
+Steps in Creating HTML Child Pages and JavaScript Pages
+- in child_pages copy the childTemplate.html and rename it for each JavaScript Assignment
+- in scrips copy the childTemplate.js and rename it for each JavaScript Assignment
+- link each .html with it's associated .js file
+- link each .html with the index.html
+
+Copy each JavaScript Assignment to each associated .js file
+
 ---
 
 # Ideas to Include
@@ -68,4 +76,5 @@ Research
 - Reduce code my writing more functions
 - Should include ALERTs cleaner
 
+A Document Map of the JavaScript Assignment: servers as an summary page for each file
 ---
