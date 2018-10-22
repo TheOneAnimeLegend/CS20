@@ -39,6 +39,8 @@ Steps in Creating HTML Child Pages and JavaScript Pages
 
 Copy each JavaScript Assignment to each associated .js file
 
+Remember: when connecting HTML Form Data to JavaScript Data, use CSS IDs
+
 ---
 
 # Ideas to Include
