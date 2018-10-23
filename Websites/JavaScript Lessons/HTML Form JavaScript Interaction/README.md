@@ -59,6 +59,8 @@ Step through the code with a ReadMe.md file
 - What happens next in the HTML
 - What happens next in the JavaScript
 - What happens next back in the HTML
+- Map the childTemplate.html and how it is connected to the childTemplate.js file
+  - Students need to understand the flow and the key words, not the entire line of code
 
 See: https://github.com/QEHS-Websites/JavaScript-HTML-Interactions/edit/master/README.md for ideas
 

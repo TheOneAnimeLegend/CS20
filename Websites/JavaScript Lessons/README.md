@@ -85,4 +85,6 @@ Need better sequence to JavaScript Lessons
 - Build code (functions, arrays, variables, constants, IF statements and importance of TRUE, order of RETURN)
 - Build "arithmetic echoes"
 
+Need to Map the Answers, especially the given code in the ReadMe.md File describing each .js assignment
+- students need to understand the flow of the problem to translate the maths to code
 ---
