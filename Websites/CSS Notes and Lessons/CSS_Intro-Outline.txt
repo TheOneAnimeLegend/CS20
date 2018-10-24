@@ -1,0 +1,13 @@
+CSS Outline
+•	Introduce three ways of writing styles
+•	Layout Progressions
+•	Mathematics around laying these things out
+•	Specifics about CSS coding and files
+
+Caution1: in-line can become difficult to read, especially when multiple attributes are in tags
+Caution1-Solved: use ID's, locate ID's in HEAD since unique to specific HTML DOC
+
+Caution2: attributes in text can add word-abstraction to text, this is preferred to ID's in text;
+          also make HTML Tags and content difficult to read
+Catuion2-Solved: using Classes
+

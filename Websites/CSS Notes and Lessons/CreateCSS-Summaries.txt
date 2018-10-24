@@ -1,0 +1,111 @@
+CSS Summaries
+
+1. A CSS selector targets an HTML element.
+
+2. CSS declarations style HTML elements. Declarations must contain the following two things:
+
+property - the property you want to style.
+value - the value for the property you are styling.
+
+3. CSS declarations must end in a semicolon (;)
+
+4. A CSS rule consists of a CSS selector and the declarations inside of the selector.
+
+5. Multiple element selectors can be used to style multiple elements at once.
+
+6. Comments keep code easy to read and allow you to experiment with new code without having to remove old code.
+
+7. CSS follows certain best practices for spacing and indentation:
+
+One line of spacing between a selector and the opening curly brace.
+No spacing between CSS declarations and the opening and closing curly braces of the CSS rule.
+Two spaces of indentation for CSS declarations.
+One line of spacing between CSS rules.
+
+
+Foreground color refers to the actual color of an element, styled with the color property.
+Background color refers to the color behind an element, styled with the background-color property.
+There are 147 named colors available.
+RGB and hexadecimal colors offer over 16 million color possibilities.
+HSL is a new way of defining colors in CSS3.
+You can modify the opacity of a color with RGBa or HSLa colors.
+Not all browsers support newer CSS features, like opacity or HSL, 
+so additional declarations should be made to support a wide audience of users.
+There are many color picker resources available on the Internet to help you select specific colors, 
+as well as provide colors in different formats.
+
+
+Code is a lot more readable when it is organized using IDs, classes, and divs.
+IDs label HTML elements that are unique to the web page (an element that appears only once).
+Classes label elements that will share the same styling. They make styling more efficient.
+The <div> groups elements together.
+It makes the HTML file easier to read by organizing the web page into logical sections.
+HTML elements can be labeled with multiple classes.
+Divs are one of the most commonly used HTML elements.
+Understanding how they are used is a critical skill for web developers.
+
+
+All HTML elements are contained within a box.
+Boxes have two dimensions: a width and a height. These dimensions can be modified with the width and height properties.
+Width and height dimensions can be set using one of three units of measurement: pixels, ems, or percentages.
+A minimum and maximum width or height can be set for a box.
+This helps ensure that content remains legible when a user shrinks or expands their browser window.
+If an element's box becomes too small, the content may overflow.
+The overflowed content can be controlled with the overflow property.
+
+
+
+You can style the borders of an element's box.
+The border-width property allows you to set the thickness, or width, of a border.
+The border-style property allows you to change the style of border used.
+The border-color property allows you to change the color of a border.
+Individually setting the style, thickness, and color of a border can bloat code.
+It's more efficient to use the shorthand border property and specify all three properties at once, in that order.
+Box borders don't have to be square. Their corners can be rounded with the border-radius property.
+
+
+Padding is the spacing between a box's content and the borders of the box.
+Padding can be set equally on all sides of the content, or can be set specifically for certain sides of the content only.
+Margin is the spacing directly outside of a box's borders.
+Margins can be set equally on all sides of a box, or can be set specifically for certain sides of the box only.
+The display changes the default behavior of HTML elements.
+The visibility property hides an element, but does not remove the amount of space the element takes up on the page.
+If you want to hide that element and remove the empty space, use the display property instead.
+This lesson completes our overview of the standard box model.
+Understanding the box model is important if you want to understand web page layouts.
+
+Unfortunately, the standard box model has a minor limitation: unreliable box dimensions.
+In the next lesson, you'll learn more about how to solve this problem using a quick, but important technique.
+
+
+
+The position property allows you to specify the position of an element in three different ways.
+When set to relative, an element's position is relative to its default position on the page.
+When set to absolute, an element's position can be pinned to any part of the web page, but the element will still move out of view when the page is scrolled.
+When set to fixed, an element's position can be pinned to any part of the web page. The element will remain in view no matter what.
+The z-index of an element specifies how far back or how far forward an element appears on the page.
+The float property can move elements as far left or as far right as possible on a web page.
+You can clear an element's left or right side (or both) using the clear property.
+
+
+Image dimensions are set using the width and height properties.
+A background image can be added to any element using the background-image property.
+A background image's repetition is controlled with the background-repeat property.
+The position of a non-repeating image can be controlled using the background-positionproperty.
+The background property is a shorthand way of setting an image, repetition, and it's position.
+The background-image also supports color gradients.
+
+
+The <table> element creates a table.
+The <tr> element adds rows to a table.
+To add data to a row, you can use the <td> element.
+Table headings clarify the meaning of data. Headings are added with the <th> element.
+Table data can span columns using the colspan attribute.,
+Table data can span rows using the rowspan attribute.
+Tables can be split into three main sections: a head, a body, and a footer.
+A table's head is created with the <thead> element.
+A table's body is created with the <tbody> element.
+A table's footer is created with the <tfoot> element.
+All the CSS properties you learned about in this course can be applied to tables and their data.
+
+
