@@ -1,7 +1,7 @@
 # CSS Notes and Lessons
 Inline, Styles in HTML, .CSS File
 
-
+More Teacher Notes, <a href="https://github.com/QEHS-Websites/CSS-Sandbox">Click Here</a>
 ---
 
 # Ideas to Include
