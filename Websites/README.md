@@ -31,6 +31,7 @@ Example Videos using Accessibility: https://youtu.be/OGwKOxh5hqQ?t=5m28s
 ---
 
 # Ideas
+Include full links to CSS in Boilerplate, wtih debugging Lines
 
 Which Data Structure makes sense
 - Primitive data: individually initialized
