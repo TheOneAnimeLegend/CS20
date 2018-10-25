@@ -62,6 +62,6 @@ UNDER CONSTRUCTION
 ---
 
 # Ideas to Include
-
+https://css-tricks.com/helping-a-beginner-understand-getting-a-website-live/
 
 ---
