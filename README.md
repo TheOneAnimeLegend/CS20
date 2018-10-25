@@ -64,4 +64,9 @@ UNDER CONSTRUCTION
 # Ideas to Include
 https://css-tricks.com/helping-a-beginner-understand-getting-a-website-live/
 
+Website Projects
+- JavaScript Assignments Website
+- Business-style Website 
+- Promoting Processing-Java Embedded Programs Website
+
 ---
