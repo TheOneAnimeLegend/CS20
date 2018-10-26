@@ -81,4 +81,11 @@ Research
 - Should include ALERTs cleaner
 
 A Document Map of the JavaScript Assignment: servers as an summary page for each file
+
+ReadMe.md file will have minimum HTML with specific lines of code to ID in larger files and boilerplate
+- index.html to childTemplate: pathway
+- childTemplate to .css and .js links
+- ID in HTML Form to .js variables
+- ID in HTML Form to innerHTML, by variable
+
 ---
