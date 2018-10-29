@@ -6,6 +6,7 @@ Blank
 Hyperlink to Teacher-only Files, <a herf="https://drive.google.com/drive/folders/1dypmTf5AUxQQN6Bg0gQNNVjeARoiilxm">Click Here</a>
 - Semi-organized Teacher Only Files, <a href="https://github.com/QEHS-ProcessingJava/Games-and-AI-Ideas">Click Here</a>
 
+Hyperlink to Organized and Saved Teacher Files, <a href="https://drive.google.com/drive/folders/1Kf5HuP1Kj3-8jHm-9AkBLTGhKBOtYg6S">Click Here for Tik Tac Toe Files</a>
 ---
 
 # Ideas to Include
@@ -101,15 +102,9 @@ Ideas:
 - Creating algorithm to calculate then self-finish
 
 
-
-
-
-
-Shapes of Double Threats
-
 Reviewing Processing, <a herf="https://drive.google.com/drive/folders/1SlRPvA7aeSPPZgV9GouJFS1mHgakZvUn">Click Here</a>
 
-File IO
+File IO, see Final Project in Tik Tac Toe (Code is included)
 
 Cue Cards?
 
