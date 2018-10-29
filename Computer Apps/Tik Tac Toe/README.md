@@ -7,8 +7,11 @@ Note: Exemplar Tic Tak Toe contains File Input and Output, as an introduction
 
 Progression:
 - Introduction, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe#introduction">Click Here</a>
-- Playing the Game and developing an Algorithm
-- 
+- Playing the Game and developing an Algorithm, <a href="">Click Here</a>
+- Develop an algorithm with these Videos, <a href="">Click Here</a>
+<a href="">Click Here</a>
+
+---
 
 ## Introduction
 
@@ -19,22 +22,28 @@ A Simpler Case Study: the maths of Tic Tak Toe
 - Learning how to play Tik Tac Toe
 - When do you make yourself less of a master than you really are? When you are playing a child? When you are giving someone else a chance?
 
-## Creating a GUI Design
+---
 
+## Play the Game
+
+Play the Game, review simple rules
+- Using ethical choices of agreeing to play at the Easy, Medium, or Master Levels (another way of agreeing on ethics to guide behaviour)
+- See Google Chrome's Built in Tic Tak Toe Game, <a href="https://www.google.com/search?q=tic+tac+toe">Click Here</a>
+- See Wikipedia for history, <a href="https://en.wikipedia.org/wiki/Tic-tac-toe">Click Here</a>
+
+Review a Blunt-force Algorithm for a small sample set allowing a computer to choose whether it wins or looses
+- Review Images, start with CenterCourner to imagine a chart, <a href="https://drive.google.com/drive/folders/1O1aSlk_9VjMnE-fRP08UMWqMBG0YpssY">Click Here for a Google Drive Folder</a>
+- "Half way through Mr. Mercer, I started to realize some moves where all the same, so I didn't include those."
+
+## Develop an algorithm with these Videos
 
 ---
 
 # Ideas to Include
 
 Steps in Creating a Case Study (Playing Tik Tac Toe) with Probabilities
-1. Play the Game, review simple rules
-   - Using ethical choices of agreeing to play at the Easy, Medium, or Master Levels (another way of agreeing on ethics to guide behaviour)
-   - See Google Chrome's Built in Tic Tak Toe Game, <a href="https://www.google.com/search?q=tic+tac+toe">Click Here</a>
-   - See Wikipedia for history, <a href="https://en.wikipedia.org/wiki/Tic-tac-toe">Click Here</a>
-2. Review a Blunt-force Algorithm for a small sample set allowing a computer to choose whether it wins or looses
-   - Review Images, start with CenterCourner to imagine a chart
-   - "Half way through Mr. Mercer, I started to realize some moves where all the same, so I didn't include those."
-3. Develop an algorithm with these Videos
+
+3.
    - Reminder: for each video, name the strategy to develop an algorithm to
    - Video: Master Strategies, <a href="https://www.youtube.com/watch?v=5n2aQ3UQu9Y">Click Here</a>
      - Strategy: “3 corners” (one general pattern to ensure a win)
