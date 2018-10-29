@@ -9,7 +9,8 @@ Progression:
 - Introduction, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe#introduction">Click Here</a>
 - Playing the Game and developing an Algorithm, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe#play-the-game">Click Here</a>
 - Develop an algorithm with these Videos, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe#develop-an-algorithm-with-these-videos">Click Here</a>
-- General Algorithm From Mr. Wildberger, <a href="">Click Here</a>
+- General Algorithm From Mr. Wildberger, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe#general-algorithm-from-mr-wildberger">Click Here</a>
+- <a href="">Click Here</a>
 <a href="">Click Here</a>
 
 ---
@@ -57,25 +58,22 @@ Review a Blunt-force Algorithm for a small sample set allowing a computer to cho
 
 ## General Algorithm From Mr. Wildberger
 
+Notice: we start at the end of the game first, then get more specific to prediction (same with learning, if you know the goal ...)
+
+Level 1
+  - Rule 1: If you can make three, do so
+  - Rule 2: If your opponent can make three next turn, prevent it
+Level 2
+  - Rule 3: If you can make a double threat, do so
+  - Rule 4: If your opponent can make a double threat next turn, prevent it
+Level 3
+  - Rule 5: If you can set up a double threat next turn, do so
+  - Rule 6: If you can prevent your opponent from setting up a double threat, do so
+
 ---
 
 # Ideas to Include
 
-Steps in Creating a Case Study (Playing Tik Tac Toe) with Probabilities
-
-3.
-
-- General Algorithm From Mr. Wildberger
-       - Notice: we start at the end of the game first, then get more specific to prediction (same with learning, if you know the goal ...)
-       - Level 1
-         - Rule 1: If you can make three, do so
-         - Rule 2: If your opponent can make three next turn, prevent it
-       - Level 2
-         - Rule 3: If you can make a double threat, do so
-         - Rule 4: If your opponent can make a double threat next turn, prevent it
-       - Level 3
-         - Rule 5: If you can set up a double threat next turn, do so
-         - Rule 6: If you can prevent your opponent from setting up a double threat, do so
 4. Generalize your algorithm with these readings
    1. <a href="https://www.quora.com/What-is-the-probability-of-the-first-player-winning-in-Tic-Tac-Toe-as-well-as-the-second-one-winning">Click Here</a>
    2. <a href="http://mathforum.org/kb/thread.jspa?forumID=13&threadID=1164858&messageID=3821102">Click Here</a>

@@ -17,9 +17,6 @@ Table of Contents
 
 # Ideas to Include
 
-
-
-
 Reviewing Processing, <a herf="https://drive.google.com/drive/folders/1SlRPvA7aeSPPZgV9GouJFS1mHgakZvUn">Click Here</a>
 
 File IO, see Final Project in Tik Tac Toe (Code is included)
