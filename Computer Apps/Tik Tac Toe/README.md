@@ -9,6 +9,7 @@ Progression:
 - Introduction, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe#introduction">Click Here</a>
 - Playing the Game and developing an Algorithm, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe#play-the-game">Click Here</a>
 - Develop an algorithm with these Videos, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe#develop-an-algorithm-with-these-videos">Click Here</a>
+- General Algorithm From Mr. Wildberger, <a href="">Click Here</a>
 <a href="">Click Here</a>
 
 ---
@@ -53,6 +54,8 @@ Review a Blunt-force Algorithm for a small sample set allowing a computer to cho
     - 14:00 - 15:30 (can stop about): Double Threats; discusses some advanced planning to set up a double threat
     - 20:00 - 23:30: Discusses how to setup and prevent double threats
     - 24:00 - 31:10 : Discusses how to setup a double threat
+
+## General Algorithm From Mr. Wildberger
 
 ---
 
