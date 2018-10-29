@@ -63,9 +63,11 @@ Notice: we start at the end of the game first, then get more specific to predict
 Level 1
   - Rule 1: If you can make three, do so
   - Rule 2: If your opponent can make three next turn, prevent it
+
 Level 2
   - Rule 3: If you can make a double threat, do so
   - Rule 4: If your opponent can make a double threat next turn, prevent it
+  
 Level 3
   - Rule 5: If you can set up a double threat next turn, do so
   - Rule 6: If you can prevent your opponent from setting up a double threat, do so
