@@ -53,6 +53,10 @@ Use Forms to Input data
 
 See: https://css-tricks.com/helping-a-beginner-understand-getting-a-website-live/
 
+CSS lessons
+- One page with different .class attributes, simple HTML
+- Remember CSS Validation and Accessibility
+
 ---
 
 ## Example Table Lesson
