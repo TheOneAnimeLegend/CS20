@@ -14,8 +14,13 @@ Exploring Games and AI, creating an algorithm to deal with probabilities
 - A Simpler Case Study: the maths of Tic Tak Toe
 - Understanding choices and prediction, making a user experience of ethics (when to win)
 
-Steps in Creating a Case Study with Probabilities
+"How do you program a computer to make ethical choices?"
+- Learning how to play Tik Tac Toe
+- When do you make yourself less of a master than you really are? When you are playing a child? When you are giving someone else a chance?
+
+Steps in Creating a Case Study (Playing Tik Tac Toe) with Probabilities
 1. Play the Game, review simple rules
+   - Using ethical choices of agreeing to play at the Easy, Medium, or Master Levels (another way of agreeing on ethics to guide behaviour)
 2. Review a Blunt-force Algorithm for a small sample set allowing a computer to choose whether it wins or looses
 .  
 
