@@ -31,9 +31,11 @@ A Simpler Case Study: the maths of Tic Tak Toe
 Play the Game, review simple rules
 - Using ethical choices of agreeing to play at the Easy, Medium, or Master Levels (another way of agreeing on ethics to guide behaviour)
 - See Google Chrome's Built in Tic Tak Toe Game, <a href="https://www.google.com/search?q=tic+tac+toe">Click Here</a>
+  - What separates easy, medium, and impossible
 - See Wikipedia for history, <a href="https://en.wikipedia.org/wiki/Tic-tac-toe">Click Here</a>
 
 Play an Exemplar Game, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe/Exemplar%20Tik%20Tac%20Toe/Final_project">Click Here</a>
+- What strategy is being used here
 
 Review a Blunt-force Algorithm for a small sample set allowing a computer to choose whether it wins or looses
 - Review Images, start with CenterCourner to imagine a chart, <a href="https://drive.google.com/drive/folders/1O1aSlk_9VjMnE-fRP08UMWqMBG0YpssY">Click Here for a Google Drive Folder</a>
