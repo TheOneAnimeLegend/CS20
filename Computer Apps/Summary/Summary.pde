@@ -8,8 +8,7 @@
 //PFont titleFont;
 //SoundFile file; //This is creating a class and needs a dereference to use, see code below
 
-/*
-//void setup() {
+//void setup() {}
 //size(600, 600); //uses width and height
 //fullScreen(); //uses displayWidth and displayHeight
 //print("Screen Width is " + displayWidth + "\n       Height is " + displayHeight);
@@ -22,8 +21,6 @@
 //loadImages();
 //loadSoundFiles();
 //GUI_Setup(); //May need to move to draw() if animation
-}
-*/
 
 //void draw() {}
 //Include call to quitButton Here
