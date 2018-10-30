@@ -102,6 +102,7 @@ Level 3
 6. Case Study a Simple GUI knowing all the coded pieces of a board
    - Draw simple GUI with lines (coordinates and ratios, use paper folding)
      - Try to Upload a simple .pdf consumable of what this looks like
+     - Smallest version of Divisions is 1/12: includes all fractions except 1/5 and 1/7 (note: might be a good idea to include 1/5 divisions)
    - Use Processing.Java to layout the divisions, with lines and rectangles
      - Test fullScreen() and size() in landscape and portrait
      - Chart all values, is there a better way to print this using FOR Loops
