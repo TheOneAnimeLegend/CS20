@@ -33,6 +33,8 @@ Play the Game, review simple rules
 - See Google Chrome's Built in Tic Tak Toe Game, <a href="https://www.google.com/search?q=tic+tac+toe">Click Here</a>
 - See Wikipedia for history, <a href="https://en.wikipedia.org/wiki/Tic-tac-toe">Click Here</a>
 
+Play an Exemplar Game, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe/Exemplar%20Tik%20Tac%20Toe/Final_project">Click Here</a>
+
 Review a Blunt-force Algorithm for a small sample set allowing a computer to choose whether it wins or looses
 - Review Images, start with CenterCourner to imagine a chart, <a href="https://drive.google.com/drive/folders/1O1aSlk_9VjMnE-fRP08UMWqMBG0YpssY">Click Here for a Google Drive Folder</a>
 - "Half way through Mr. Mercer, I started to realize some moves where all the same, so I didn't include those."
@@ -67,7 +69,7 @@ Level 1
 Level 2
   - Rule 3: If you can make a double threat, do so
   - Rule 4: If your opponent can make a double threat next turn, prevent it
-  
+
 Level 3
   - Rule 5: If you can set up a double threat next turn, do so
   - Rule 6: If you can prevent your opponent from setting up a double threat, do so
