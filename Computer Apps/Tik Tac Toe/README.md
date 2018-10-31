@@ -10,6 +10,9 @@ Progression:
 - Playing the Game and developing an Algorithm, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe#play-the-game">Click Here</a>
 - Develop an algorithm with these Videos, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe#develop-an-algorithm-with-these-videos">Click Here</a>
 - General Algorithm From Mr. Wildberger, <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe#general-algorithm-from-mr-wildberger">Click Here</a>
+  - General Flow chart
+- Generalizing your Algorithm, extra material
+-
 - <a href="">Click Here</a>
 <a href="">Click Here</a>
 
@@ -75,6 +78,18 @@ Level 2
 Level 3
   - Rule 5: If you can set up a double threat next turn, do so
   - Rule 6: If you can prevent your opponent from setting up a double threat, do so
+
+### General Flow chart
+
+## Generalizing your Algorithm, extra material
+
+##  Case Study: Simple GUI
+
+Using Lines
+- Easy to calculate endpoints
+- Easy to separate Canvas into Divisions
+- First Endpoint of line is the first coordinate of a rectangle for images, text or button
+- See: GUI Design / Prototyping / Lines / Lines.pde
 
 ---
 
