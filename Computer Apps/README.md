@@ -21,6 +21,8 @@ Table of Contents
 
 Reviewing Processing, <a herf="https://drive.google.com/drive/folders/1SlRPvA7aeSPPZgV9GouJFS1mHgakZvUn">Click Here</a>
 
+Adding Text: autosizing, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText/AutosizingText">Click Here</a>
+
 File IO, see Final Project in Tik Tac Toe (Code is included)
 
 Cue Cards?
