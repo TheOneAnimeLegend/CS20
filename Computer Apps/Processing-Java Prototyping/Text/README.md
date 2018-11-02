@@ -1,6 +1,9 @@
 # Adding Text Exemplars
 Flat, Dynamic, and Procedural
 
+*Note*: "Delete this Text_Flat" is actaully in CS10
+- this is used to verify writing of the dynamic and procedural function programs
+
 **UNDER CONSTRUCTION**
 
 Different Program Types
