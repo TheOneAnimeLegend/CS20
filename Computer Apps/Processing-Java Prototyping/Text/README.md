@@ -3,6 +3,17 @@ Flat, Dynamic, and Procedural
 
 **UNDER CONSTRUCTION**
 
+Different Program Types
+1. Flat Program, <a href="">Click Here</a>
+   - Explanations Below, <a href="">Click Here</a>
+2. Dynamic Program, <a href="">Click Here</a>
+   - Explanations Below, <a href="">Click Here</a>
+3. Procedural Program, Font Size Calculator, <a href="">Click Here</a>
+   - Explanations Below, <a href="">Click Here</a>
+
+**CAUTION**
+- If text is too small or too big, it will not print
+- This is fixed in Typing Examples from SP2
 
 ---
 

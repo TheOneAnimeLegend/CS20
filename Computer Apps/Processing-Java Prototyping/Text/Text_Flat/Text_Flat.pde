@@ -2,7 +2,7 @@
 size(500, 600);
 String title= "Wahoo!";
 PFont titleFont;
-//String[] fontList = PFont.list(); //Lists all fonts available on system
+//String[] fontList = PFont.list(); //To list all fonts available on system
 println("Start of Console");
 //printArray(fontList); //For listing all possible fonts to choose, then createFont
 titleFont = createFont ("Harrington", 55); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
