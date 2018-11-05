@@ -1,8 +1,10 @@
 void GUI_Setup () {
   //Title Rectangle
-
-  println("Starting of Console"); // If you cannot see this, the find another way to see the list on the program 
+  /*
+  println("Starting of Console"); // If you cannot see this, then find another way to see the list on the program 
   printArray(fontList); // for listing all possible fonts to choose from, then createFont
+  */
+  
   titleFont = createFont ("Arial-Black", 55); //Copy spelling from CreateFont
   rect (displayWidth*1/4, 0, displayWidth*1/2, displayHeight*1/10); 
   textFont(titleFont, 40); // Type of font needed for calculation, size needed for function

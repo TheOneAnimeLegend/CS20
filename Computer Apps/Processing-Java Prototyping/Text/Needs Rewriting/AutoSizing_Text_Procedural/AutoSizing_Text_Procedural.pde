@@ -4,6 +4,7 @@
 
 void setup () {
   fullScreen();
+  //size(500, 600);
   GUI_Setup (); //Procedure here is easier to read
 }
 
