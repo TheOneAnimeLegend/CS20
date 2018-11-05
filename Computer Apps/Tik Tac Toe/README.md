@@ -81,7 +81,16 @@ Level 3
 
 ### General Flow chart
 
+
 ## Generalizing your Algorithm, extra material
+
+Generalize your algorithm with these readings
+   1. <a href="https://www.quora.com/What-is-the-probability-of-the-first-player-winning-in-Tic-Tac-Toe-as-well-as-the-second-one-winning">Click Here</a>
+   2. <a href="http://mathforum.org/kb/thread.jspa?forumID=13&threadID=1164858&messageID=3821102">Click Here</a>
+   3. <a href="https://math.stackexchange.com/questions/452031/chance-of-winning-in-tic-tac-toe">Click Here</a>
+   4. <a href="https://www.youtube.com/watch?v=YUpUkQmpp0s">Student Presentation for Tik Tac Toe</a> with detailed mathematics about the probability of winning
+   5. <a href="https://www.youtube.com/watch?v=YUpUkQmpp0s">Student Presentation for Tik Tac Toe</a>
+   6. <a href="https://www.youtube.com/watch?v=weC1pAeh2Do">Ulitmate Tik Tack Toe Video to test your algorithm on</a>
 
 ## Case Study: Simple GUI
 
@@ -89,19 +98,20 @@ Using Lines
 - Easy to calculate endpoints
 - Easy to separate Canvas into Divisions
 - First Endpoint of line is the first coordinate of a rectangle for images, text or button
-- See: GUI Design / Prototyping / Lines / Lines.pde
+- See: GUI Design / Prototyping / Lines / Lines.pde (<a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe/GUI%20Design/Prototyping">Click Here</a>)
+
+Using Lines and Rectangles (<a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Tik%20Tac%20Toe/GUI%20Design/Prototyping">Click Here</a>)
+- Rectangles are used to draw text or images
+
+Reviewing Processing-Java: drawing text to the canvas
+- See CS10, <a href="">Click Here</a>
+Create Button or Key Board interaction that draws X's and O's into spaces
+- Image or Text
 
 ---
 
 # Ideas to Include
 
-4. Generalize your algorithm with these readings
-   1. <a href="https://www.quora.com/What-is-the-probability-of-the-first-player-winning-in-Tic-Tac-Toe-as-well-as-the-second-one-winning">Click Here</a>
-   2. <a href="http://mathforum.org/kb/thread.jspa?forumID=13&threadID=1164858&messageID=3821102">Click Here</a>
-   3. <a href="https://math.stackexchange.com/questions/452031/chance-of-winning-in-tic-tac-toe">Click Here</a>
-   4. <a href="https://www.youtube.com/watch?v=YUpUkQmpp0s">Student Presentation for Tik Tac Toe</a> with detailed mathematics about the probability of winning
-   5. <a href="https://www.youtube.com/watch?v=YUpUkQmpp0s">Student Presentation for Tik Tac Toe</a>
-   6. <a href="https://www.youtube.com/watch?v=weC1pAeh2Do">Ulitmate Tik Tack Toe Video to test your algorithm on</a>
 5. General Flow Chart
    - Draw GUI with individual Elements
    - AI will play second always
@@ -114,6 +124,7 @@ Using Lines
      - Randomly on the first turn, then chooses response to "Double Threat" shape (create a .pdf of all Double Threat Shapes)
    - AI will play first or second
      - Separate math for center, corners, or sides
+
 6. Case Study a Simple GUI knowing all the coded pieces of a board
    - Draw simple GUI with lines (coordinates and ratios, use paper folding)
      - Try to Upload a simple .pdf consumable of what this looks like
@@ -122,6 +133,7 @@ Using Lines
      - Test fullScreen() and size() in landscape and portrait
      - Chart all values, is there a better way to print this using FOR Loops
    - Create a To Do List with Object or Behaviour Prototyped Programs
+
 7. Prototype
    - Review Loading an Image to a rectangle, checking the side lengths
      - Find Downloadable X&O Images
