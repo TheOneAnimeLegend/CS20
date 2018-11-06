@@ -2,7 +2,6 @@
 String easy = "Easy", medium = "Medium", master = "Master";
 PFont levelFont, xoFont, playerFont, scoreFont;
 
-
 void setup() {
   size(500, 600); //To Illustrate use of Display Geometry
   //fullScreen(); //uses displayWidth and displayHeight
@@ -28,6 +27,7 @@ void setup() {
   line(0, height*1/4, width, height*1/4);
   line(0, height*1/2, width, height*1/2);
   line(0, height*3/4, width, height*3/4);
+
 
   //Easy, Medium, Mastery Buttons
   line(0, height*1/12, width*1/3, height*1/12);
@@ -69,7 +69,6 @@ void setup() {
   rect(width*17/24, height*1/24, width*5/48, height*4/24); //Player 2
   rect(width*41/48, height*1/24, width*5/48, height*4/24); //Player 2 Score
 }
-
 
 void draw() {
 }
