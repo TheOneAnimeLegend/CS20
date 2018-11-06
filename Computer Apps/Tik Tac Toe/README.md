@@ -17,6 +17,7 @@ Progression:
 - Adding Text
 - Adding a Quit Button
 - Adding Images
+  Note: if students find an X&O image to draw to the canvas, instead of the text, this makes for a nice lesson
 - <a href="">Click Here</a>
 <a href="">Click Here</a>
 
