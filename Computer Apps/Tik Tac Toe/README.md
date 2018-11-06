@@ -13,6 +13,10 @@ Progression:
   - General Flow chart, <a href="">Click Here</a>
 - Generalizing your Algorithm, extra material, <a href="">Click Here</a>
 - Case Study: Simple GUI, <a href="">Click Here</a>
+- Creating Simple GUI (measureemnts)
+- Adding Text
+- Adding a Quit Button
+- Adding Images
 - <a href="">Click Here</a>
 <a href="">Click Here</a>
 
