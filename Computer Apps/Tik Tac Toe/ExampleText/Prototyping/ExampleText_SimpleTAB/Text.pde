@@ -5,6 +5,7 @@ void Text() {
   textAlign (RIGHT, CENTER); //Align X&Y, see Processing.org / Reference
   println ("Before textDraw:", purple, width*1/3, height*1/12);
   textDraw(purple, width*1/3, height*1/12);
+  textFont(levelFont, 49); // Change Number when needed
   text(easy, 0, 0, width*1/3, height*1/12); //Size 49 fits but it is too big
   fill(255); //Reset to white for rest of the program
 /*
