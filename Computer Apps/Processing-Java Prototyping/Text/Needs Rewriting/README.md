@@ -6,25 +6,11 @@ Requires a FOR Loop, Most likely CS20
 ---
 
 # Ideas to included
-CAUTION
-- If text is too small or too big, it will not print
-- This is fixed in Typing Examples from SP2
-
 
 ---
 
 # Function Notes (Read in ATOM Only)
 
-Specific Group of Functions: Printing Text to the Screen – Typography (Search Term)
-- Note: the processing website has excellent progression of explanations with these
-- Getting the typography ready: Menu/Tools/CreatFont
-- Createing the varaible & declaring it: PFont() & createFont():
-- createFont() is better than loadFont() which can only be used in setup
-- Setting up Typography: textAlign()
-- Setting up fullScreen calculations and verifying the fit or use of scalar: textWidth()
-- Printing typography: textFont(), text()
-  Note: textFont() includes textSize()
-- More advanced features for typography exist
 
 Function Choices
 PFont [varaibleName]

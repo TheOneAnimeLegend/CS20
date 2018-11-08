@@ -7,8 +7,9 @@ Flat, Dynamic, and Procedural
 **UNDER CONSTRUCTION**
 
 Table of Contents
-- General Explanations, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText#general-explanations">Click Here</a>
-- Function Choices, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText#function-choices">Click Here</a>
+- General Explanations, link to CS10 and Flat Text, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText#general-explanations">Click Here</a>
+- Function Choices, link to CS10 and Flat Text, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText#function-choices">Click Here</a>
+- Writing the Loop for Autosizing text, <a href="">Click Here</a>
 
 Different Program Types
 1. Basic code for text on screen, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText#basic-code-for-text-on-screen">Click Here</a>
@@ -23,6 +24,11 @@ Different Program Types
 - If text is too small or too big, it will not print
 - This is fixed in Typing Examples from SP2
 
+## Autosizing Text
+**Able to see Autosize when change size() to fullScreen(), or changing size()**
+**Caution: must stay Landscape or Portrait, not go between without a very different layout**
+
+While writing this section see <a href="">this ReadMe.md</a>
 ---
 
 # Ideas to Include
