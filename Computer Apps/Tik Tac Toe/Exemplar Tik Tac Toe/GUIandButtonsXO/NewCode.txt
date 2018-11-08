@@ -5,3 +5,8 @@ New Coding
   textSize is larger than rect height when textWidth is shorter than rect width
   take percentage of that font
 - 
+
+Reset
+- Index to null
+- Count to zero
+- noDraw[] to false with FOR Loop
