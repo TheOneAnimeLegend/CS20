@@ -10,3 +10,6 @@ Reset
 - Index to null
 - Count to zero
 - noDraw[] to false with FOR Loop
+
+Learning about 3 in a row
+- use modulus on count
