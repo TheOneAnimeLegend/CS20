@@ -1,8 +1,4 @@
-//Variables, no call needed for variables-only
-
-
-//Boolean printX = false, printO = false; //To signal Board Button, 1-9, has been been pressed
-
+//Global Variables
 
 void setup() {
   size(500, 600); //To Illustrate use of Display Geometry
