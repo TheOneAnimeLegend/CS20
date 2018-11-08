@@ -1,3 +1,9 @@
+PFont levelFont, xoFont, playerFont, scoreFont;
+String easy = "Easy", medium = "Medium", master = "Master", reset = "Reset", title = "Tik Tac Toe", x = "X", o = "O";
+int xWin = 0, oWin = 0, count = 0, position;
+Boolean[] noDraw = new Boolean[9]; //Turn off ablity to draw an X or an O in a sqaure of the board
+color green = #00FF1F;
+
 void textSetup() {
   //Finding all Fonts on System
   //String[] fontList = PFont.list(); //To list all fonts available on system
@@ -28,12 +34,7 @@ void textSetup() {
   fill(255); //Reset to white for rest of the program
 
   //RESET
-  fill(0); //Ink, hexidecimal copied from Color Selector
-  textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference
-  //Values: [LEFT | CENTER | RIGHT] & [TOP | CENTER | BOTTOM | BASELINE]
-  textFont(levelFont, 42); //Change the number until it fits, largest font size
-  text(reset, width*2/3, height*0/12, width*1/3, height*1/12);
-  fill(255); //Reset to white for rest of the program
+  resetText();
 
   //Scoreboard
   fill(0); //Ink, hexidecimal copied from Color Selector
@@ -67,10 +68,18 @@ void textDraw() {
   fill(255); //Reset to white for rest of the program
 
   //X&O in Board
-  if (index == 0 || index == 2 || index == 4 || index == 6 || index == 8) {
-    xoText(x, index);
+  if (count == 1 || count == 3 || count == 5 || count == 7 || count == 9) {
+    xoText(x, position);
   } else {
-    xoText(o, index);
+    xoText(o, position);
+  }
+
+  //Reset to Green
+  if (count == 9) {
+    fill(green);
+    rect(width*2/3, height*0/12, width*1/3, height*1/12);
+    fill(255);
+    resetText();
   }
 }
 
@@ -78,32 +87,32 @@ void xoText(String text, int position) {
   fill(0); //Ink, hexidecimal copied from Color Selector
   textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference
   //Values: [LEFT | CENTER | RIGHT] & [TOP | CENTER | BOTTOM | BASELINE]
-  textFont(scoreFont, 20); //Change the number until it fits, largest font size
-  if (position == 0) {
+  textFont(xoFont, 80); //Change the number until it fits, largest font size
+  if (position == 1) {
     text(text, width*1/24, height*7/24, width*6/24, height*4/24);
   }
-  if (position == 1) {
+  if (position == 2) {
     text(text, width*9/24, height*7/24, width*6/24, height*4/24);
   }
-  if (position == 2) {
+  if (position == 3) {
     text(text, width*17/24, height*7/24, width*6/24, height*4/24);
   }
-  if (position == 3) {
+  if (position == 4) {
     text(text, width*1/24, height*13/24, width*6/24, height*4/24);
   }
-  if (position == 4) {
+  if (position == 5) {
     text(text, width*9/24, height*13/24, width*6/24, height*4/24);
   }
-  if (position == 5) {
+  if (position == 6) {
     text(text, width*17/24, height*13/24, width*6/24, height*4/24);
   }
-  if (position == 6) {
+  if (position == 7) {
     text(text, width*1/24, height*19/24, width*6/24, height*4/24);
   }
-  if (position == 7) {
+  if (position == 8) {
     text(text, width*9/24, height*19/24, width*6/24, height*4/24);
   }
-  if (position == 8) {
+  if (position == 9) {
     text(text, width*17/24, height*19/24, width*6/24, height*4/24);
   }
   fill(255); //Reset to white for rest of the program
@@ -123,39 +132,48 @@ void xoButtonDraw() {
    */
 
   if (noDraw[0] == false && mouseX>width*1/24 && mouseX<width*7/24 && mouseY>height*7/24 && mouseY<height*11/24) { //#1
-    index += 1;
+    position = 1;
     noDraw[0] = true;
+    count++;
   }
   if (noDraw[1] == false && mouseX>width*9/24 && mouseX<width*15/24 && mouseY>height*7/24 && mouseY<height*11/24) { //#2
-    index += 1;
+    position = 2;
     noDraw[1] = true;
+    count++;
   } 
   if (noDraw[2] == false && mouseX>width*17/24 && mouseX<width*23/24 && mouseY>height*7/24 && mouseY<height*11/24) { //#3
-    index += 1;
+    position = 3;
     noDraw[2] = true;
+    count++;
   } 
   if (noDraw[3] == false && mouseX>width*1/24 && mouseX<width*7/24 && mouseY>height*13/24 && mouseY<height*17/24) { //#4
-    index += 1;
+    position = 4;
     noDraw[3] = true;
+    count++;
   } 
   if (noDraw[4] == false && mouseX>width*9/24 && mouseX<width*15/24 && mouseY>height*13/24 && mouseY<height*17/24) { //#5
-    index += 1;
+    position = 5;
     noDraw[4] = true;
+    count++;
   } 
   if (noDraw[5] == false && mouseX>width*17/24 && mouseX<width*23/24 && mouseY>height*13/24 && mouseY<height*17/24) { //#6
-    index += 1;
+    position = 6;
     noDraw[5] = true;
+    count++;
   } 
   if (noDraw[6] == false && mouseX>width*1/24 && mouseX<width*7/24 && mouseY>height*19/24 && mouseY<height*23/24) { //#7
-    index += 1;
+    position = 7;
     noDraw[6] = true;
+    count++;
   } 
   if (noDraw[7] == false && mouseX>width*9/24 && mouseX<width*15/24 && mouseY>height*19/24 && mouseY<height*23/24) { //#8
-    index += 1;
+    position = 8;
     noDraw[7] = true;
+    count++;
   } 
   if (noDraw[8] == false && mouseX>width*17/24 && mouseX<width*23/24 && mouseY>height*19/24 && mouseY<height*23/24) { //#9
-    index += 1;
+    position = 9;
     noDraw[8] = true;
+    count++;
   }
 }

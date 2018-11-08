@@ -1,9 +1,8 @@
 //Variables, no call needed for variables-only
-String easy = "Easy", medium = "Medium", master = "Master", reset = "Reset", title = "Tik Tac Toe", x = "X:", o = "O:";
-int xWin = 0, oWin = 0, startIndex, index = 0;
-Boolean[] noDraw = new Boolean[8]; //Turn off ablity to draw an X or an O in a sqaure of the board
-Boolean printX = false, printO = false; //To signal Board Button, 1-9, has been been pressed
-PFont levelFont, xoFont, playerFont, scoreFont;
+
+
+//Boolean printX = false, printO = false; //To signal Board Button, 1-9, has been been pressed
+
 
 void setup() {
   size(500, 600); //To Illustrate use of Display Geometry
@@ -30,4 +29,5 @@ void draw() {
 void mouseClicked() {
   quitButtonMouseClicked();
   xoButtonDraw();
+  println("Position:", position, "Count:", count);
 }
