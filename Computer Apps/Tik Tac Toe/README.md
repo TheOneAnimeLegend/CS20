@@ -157,5 +157,20 @@ Ideas:
 - Algorithm to solve Tic Tack Toe Board in square (based on paper folding)
 - Creating algorithm to calculate then self-finish
 
+Learning about 3 in a row
+- use modulus on count
+
+New Coding
+- parsing integers to strings
+  Showing the number of xWins and yWins
+- Text follows different algoroithm
+  textSize is larger than rect height when textWidth is shorter than rect width
+  take percentage of that font
+-
+
+Reset
+- Index to null
+- Count to zero
+- noDraw[] to false with FOR Loop
 
 ---
