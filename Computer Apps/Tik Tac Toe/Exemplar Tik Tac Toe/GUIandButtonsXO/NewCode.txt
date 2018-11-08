@@ -1,0 +1,4 @@
+New Coding
+- parsing integers to strings
+  Showing the number of xWins and yWins
+- 

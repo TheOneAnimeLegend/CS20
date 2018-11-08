@@ -24,8 +24,8 @@ void GUI_Design() {
   rect(width*17/24, height*19/24, width*6/24, height*4/24); //Square in #9
 
   //Scoreboard
-  rect(width*9/24, height*3/24, width*4/48, height*2/24); //Player 1
-  rect(width*11/24, height*3/24, width*8/48, height*2/24); //Player 1 Score
-  rect(width*17/24, height*3/24, width*4/48, height*2/24); //Player 2
-  rect(width*19/24, height*3/24, width*8/48, height*2/24); //Player 2 Score
+  //rect(width*9/24, height*3/24, width*4/48, height*2/24); //Player 1
+  //rect(width*11/24, height*3/24, width*8/48, height*2/24); //Player 1 Score
+  //rect(width*17/24, height*3/24, width*4/48, height*2/24); //Player 2
+  //rect(width*19/24, height*3/24, width*8/48, height*2/24); //Player 2 Score
 }
