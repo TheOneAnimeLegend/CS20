@@ -28,7 +28,8 @@ Different Program Types
 **Able to see Autosize when change size() to fullScreen(), or changing size()**
 **Caution: must stay Landscape or Portrait, not go between without a very different layout**
 
-While writing this section see <a href="">this ReadMe.md</a>
+While writing this section see <a href="https://github.com/MercersKitchen/CS20/tree/master/Computer%20Apps/Processing-Java%20Prototyping/Text/Needs%20Rewriting">this ReadMe.md</a>
+
 ---
 
 # Ideas to Include
