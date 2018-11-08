@@ -26,6 +26,8 @@ Different Program Types
 ---
 
 # Ideas to Include
-
+- Text follows different algorithm
+- textSize() is larger than rect() height when textWidth() is shorter than rect() width
+- take percentage of that font
 
 ---

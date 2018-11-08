@@ -1,4 +1,7 @@
 New Coding
 - parsing integers to strings
   Showing the number of xWins and yWins
+- Text follows different algoroithm
+  textSize is larger than rect height when textWidth is shorter than rect width
+  take percentage of that font
 - 

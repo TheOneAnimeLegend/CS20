@@ -67,12 +67,53 @@ void textDraw() {
   fill(255); //Reset to white for rest of the program
 
   //X&O in Board
+  if (index == 0 || index == 2 || index == 4 || index == 6 || index == 8) {
+    xoText(x, index);
+  } else {
+    xoText(o, index);
+  }
+}
+
+void xoText(String text, int position) {
+  fill(0); //Ink, hexidecimal copied from Color Selector
+  textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference
+  //Values: [LEFT | CENTER | RIGHT] & [TOP | CENTER | BOTTOM | BASELINE]
+  textFont(scoreFont, 20); //Change the number until it fits, largest font size
+  if (position == 0) {
+    text(text, width*1/24, height*7/24, width*6/24, height*4/24);
+  }
+  if (position == 1) {
+    text(text, width*9/24, height*7/24, width*6/24, height*4/24);
+  }
+  if (position == 2) {
+    text(text, width*17/24, height*7/24, width*6/24, height*4/24);
+  }
+  if (position == 3) {
+    text(text, width*1/24, height*13/24, width*6/24, height*4/24);
+  }
+  if (position == 4) {
+    text(text, width*9/24, height*13/24, width*6/24, height*4/24);
+  }
+  if (position == 5) {
+    text(text, width*17/24, height*13/24, width*6/24, height*4/24);
+  }
+  if (position == 6) {
+    text(text, width*1/24, height*19/24, width*6/24, height*4/24);
+  }
+  if (position == 7) {
+    text(text, width*9/24, height*19/24, width*6/24, height*4/24);
+  }
+  if (position == 8) {
+    text(text, width*17/24, height*19/24, width*6/24, height*4/24);
+  }
+  fill(255); //Reset to white for rest of the program
 }
 
 void xoButtonDraw() {
   //for MouseClicked Listener, each of buttons in X&O Board
 
   //To Test Each Button, use the following code
+  //Intended to increase counter of xWins or oWins
   /*
   fill(255);
    noStroke();
@@ -81,67 +122,40 @@ void xoButtonDraw() {
    xWin+=1;
    */
 
-  if (mouseX>width*1/24 && mouseX<width*7/24 && mouseY>height*7/24 && mouseY<height*11/24) { //#1
-    fill(255);
-    noStroke();
-    rect(width*11/24, height*3/24, width*8/48, height*2/24);
-    stroke(1);
-    xWin+=1;
+  if (noDraw[0] == false && mouseX>width*1/24 && mouseX<width*7/24 && mouseY>height*7/24 && mouseY<height*11/24) { //#1
+    index += 1;
+    noDraw[0] = true;
   }
-  if (mouseX>width*9/24 && mouseX<width*15/24 && mouseY>height*7/24 && mouseY<height*11/24) { //#2
-    fill(255);
-    noStroke();
-    rect(width*11/24, height*3/24, width*8/48, height*2/24);
-    stroke(1);
-    xWin+=1;
+  if (noDraw[1] == false && mouseX>width*9/24 && mouseX<width*15/24 && mouseY>height*7/24 && mouseY<height*11/24) { //#2
+    index += 1;
+    noDraw[1] = true;
   } 
-  if (mouseX>width*17/24 && mouseX<width*23/24 && mouseY>height*7/24 && mouseY<height*11/24) { //#3
-    fill(255);
-    noStroke();
-    rect(width*11/24, height*3/24, width*8/48, height*2/24);
-    stroke(1);
-    xWin+=1;
+  if (noDraw[2] == false && mouseX>width*17/24 && mouseX<width*23/24 && mouseY>height*7/24 && mouseY<height*11/24) { //#3
+    index += 1;
+    noDraw[2] = true;
   } 
-  if (mouseX>width*1/24 && mouseX<width*7/24 && mouseY>height*13/24 && mouseY<height*17/24) { //#4
-    fill(255);
-    noStroke();
-    rect(width*11/24, height*3/24, width*8/48, height*2/24);
-    stroke(1);
-    xWin+=1;
+  if (noDraw[3] == false && mouseX>width*1/24 && mouseX<width*7/24 && mouseY>height*13/24 && mouseY<height*17/24) { //#4
+    index += 1;
+    noDraw[3] = true;
   } 
-  if (mouseX>width*9/24 && mouseX<width*15/24 && mouseY>height*13/24 && mouseY<height*17/24) { //#5
-    fill(255);
-    noStroke();
-    rect(width*11/24, height*3/24, width*8/48, height*2/24);
-    stroke(1);
-    xWin+=1;
+  if (noDraw[4] == false && mouseX>width*9/24 && mouseX<width*15/24 && mouseY>height*13/24 && mouseY<height*17/24) { //#5
+    index += 1;
+    noDraw[4] = true;
   } 
-  if (mouseX>width*17/24 && mouseX<width*23/24 && mouseY>height*13/24 && mouseY<height*17/24) { //#6
-    fill(255);
-    noStroke();
-    rect(width*11/24, height*3/24, width*8/48, height*2/24);
-    stroke(1);
-    xWin+=1;
+  if (noDraw[5] == false && mouseX>width*17/24 && mouseX<width*23/24 && mouseY>height*13/24 && mouseY<height*17/24) { //#6
+    index += 1;
+    noDraw[5] = true;
   } 
-  if (mouseX>width*1/24 && mouseX<width*7/24 && mouseY>height*19/24 && mouseY<height*23/24) { //#7
-    fill(255);
-    noStroke();
-    rect(width*11/24, height*3/24, width*8/48, height*2/24);
-    stroke(1);
-    xWin+=1;
+  if (noDraw[6] == false && mouseX>width*1/24 && mouseX<width*7/24 && mouseY>height*19/24 && mouseY<height*23/24) { //#7
+    index += 1;
+    noDraw[6] = true;
   } 
-  if (mouseX>width*9/24 && mouseX<width*15/24 && mouseY>height*19/24 && mouseY<height*23/24) { //#8
-    fill(255);
-    noStroke();
-    rect(width*11/24, height*3/24, width*8/48, height*2/24);
-    stroke(1);
-    xWin+=1;
+  if (noDraw[7] == false && mouseX>width*9/24 && mouseX<width*15/24 && mouseY>height*19/24 && mouseY<height*23/24) { //#8
+    index += 1;
+    noDraw[7] = true;
   } 
-  if (mouseX>width*17/24 && mouseX<width*23/24 && mouseY>height*19/24 && mouseY<height*23/24) { //#9
-    fill(255);
-    noStroke();
-    rect(width*11/24, height*3/24, width*8/48, height*2/24);
-    stroke(1);
-    xWin+=1;
+  if (noDraw[8] == false && mouseX>width*17/24 && mouseX<width*23/24 && mouseY>height*19/24 && mouseY<height*23/24) { //#9
+    index += 1;
+    noDraw[8] = true;
   }
 }
