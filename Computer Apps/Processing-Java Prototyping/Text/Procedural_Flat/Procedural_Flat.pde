@@ -1,16 +1,33 @@
 //fullScreen();
-size(500, 600);
+size(600, 200);
 String title= "Wahoo!";
 PFont titleFont;
+float titleWidth = width*1/2;
+float titleHeight = height*1/10;
+float titleFontSize = height;
 //String[] fontList = PFont.list(); //To list all fonts available on system
 println("Start of Console");
 //printArray(fontList); //For listing all possible fonts to choose, then createFont
-titleFont = createFont ("Harrington", 55); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
+titleFont = createFont ("Harrington", height); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
+String titleFontString = "Harrington";
+float titleFontDecrease = 0.56; //67%, 200|300; 56%, 200|200
 
-rect(width*1/4, height*0, width*1/2, height*1/10);
-fill(#2C08FF); //Purple Ink, copied from Color Selector
+rect(width*1/4, height*0, titleWidth, titleHeight);
+fill(#2C08FF); //Blue Ink, copied from Color Selector
 textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference
 //Values: LEFT | CENTER | RIGHT & TOP | CENTER | BOTTOM | BASELINE
-textFont(titleFont, 50); //Change the number until it fits, largest font size
-text(title, width*1/4, height*0, width*1/2, height*1/10);
+textFont(titleFont, titleFontSize); //Change the number until it fits, largest font size
+float i = 1;
+while (textWidth(title) > titleWidth) {
+  titleFontSize = titleFontSize * i;
+  textSize (titleFontSize);
+  i = i - 0.0001;
+  println ("i:", i, "Title Font Size:", titleFontSize); //75.8, 74.6, 50 is where it prints
+}
+if (titleFontString == "Harrington") {
+  titleFontSize = titleFontSize * titleFontDecrease;
+}
+println ("New Font Size", titleFontSize);
+textFont(titleFont, titleFontSize); //Change the number until it fits, largest font size //titleFontSize
+text(title, width*1/4, height*0, titleWidth, height*1/10);
 fill(255); //Reset to white for rest of the program
