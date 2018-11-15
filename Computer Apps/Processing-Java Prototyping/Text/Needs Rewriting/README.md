@@ -7,6 +7,8 @@ Requires a FOR Loop, Most likely CS20
 
 # Ideas to included
 Discuss Asymptotic approximation to get idea of textSize and the percentage reduction for fonts that are tall and narrow
+- relationship between textWidth & textSize and width & height
+- remember landscape and portrait
 
 ---
 
