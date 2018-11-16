@@ -1,5 +1,5 @@
 //fullScreen();
-size(600, 100);
+size(600, 200);
 String title= "Wahoo!";
 PFont titleFont;
 float titleWidth = width*1/2;
@@ -10,7 +10,7 @@ println("Start of Console");
 //printArray(fontList); //For listing all possible fonts to choose, then createFont
 titleFont = createFont ("Harrington", height); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
 String titleFontString = "Harrington";
-float titleFontDecrease = 0.9; //67%, 200|300; 56%, 200|200; 18%, 600|200; 
+float titleFontDecrease = 0.54; //67%, 200|300; 57%, 200|200; 18%, 600|200; 
 
 rect(width*1/4, height*0, titleWidth, titleHeight);
 fill(#2C08FF); //Blue Ink, copied from Color Selector
