@@ -83,4 +83,20 @@ Example of Odd Font Ratio of Width to Height: Harrington
 
 See Summary to view Last Years Autosizing Function
 
+Exploring Sequences and Series, equivalent fractions and ratios
+- Viewing Different Geometries: square, landscape, portrait
+- developing a sequence for further decreasing fontSize based on textWidth
+- Sequence is similar to solving square roots without a calculator
+- ideas to explore
+  - Geometry Classification: Square, Landscape, and Portrait
+  - Number of Characters printing for each, use string count and remove spaces
+    - trim(): removes spaces
+    - string.length() returns the number of characters
+    - adding spaces: string + " "
+    - adding spaces will get to the minimum number of characters needed to printing
+    - using Excel
+  - What happens when less characters
+  - What happens when less or more ratio
+  - See Image for 7 characters
+
 ---

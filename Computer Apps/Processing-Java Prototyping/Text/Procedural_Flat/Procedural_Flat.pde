@@ -1,6 +1,6 @@
 //fullScreen();
-size(600, 200);
-String title= "Wahoo!";
+size(200, 200);
+String title= "I234567890";
 PFont titleFont;
 float titleWidth = width*1/2;
 float titleHeight = height*1/10;
@@ -8,9 +8,9 @@ float titleFontSize = height;
 //String[] fontList = PFont.list(); //To list all fonts available on system
 println("Start of Console");
 //printArray(fontList); //For listing all possible fonts to choose, then createFont
-titleFont = createFont ("Harrington", height); //Must also Tools / Create Font / Find Font / Do Not Press "OK"
+titleFont = createFont ("Harrington", height); // //Must also Tools / Create Font / Find Font / Do Not Press "OK"
 String titleFontString = "Harrington";
-float titleFontDecrease = 0.54; //67%, 200|300; 57%, 200|200; 18%, 600|200; 
+float titleFontDecrease = 1; //67%, 200|300; 57%, 200|200; 18%, 600|200; 
 
 rect(width*1/4, height*0, titleWidth, titleHeight);
 fill(#2C08FF); //Blue Ink, copied from Color Selector
@@ -31,3 +31,9 @@ println ("New Font Size", titleFontSize);
 textFont(titleFont, titleFontSize); //Change the number until it fits, largest font size //titleFontSize
 text(title, width*1/4, height*0, titleWidth, height*1/10);
 fill(255); //Reset to white for rest of the program
+
+println(title);
+println(title.length());
+title = title + " ";
+println(title);
+println(title.length());
