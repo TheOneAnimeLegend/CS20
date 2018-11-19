@@ -1,6 +1,6 @@
 //fullScreen();
-size(200, 200);
-String title= "I234567890";
+size(2000, 2000);
+String title= "I2E456789012";
 PFont titleFont;
 float titleWidth = width*1/2;
 float titleHeight = height*1/10;
@@ -34,6 +34,9 @@ fill(255); //Reset to white for rest of the program
 
 println(title);
 println(title.length());
+
+/* Example Adding Spaces
 title = title + " ";
 println(title);
 println(title.length());
+*/
