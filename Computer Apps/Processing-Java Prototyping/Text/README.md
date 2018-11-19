@@ -1,10 +1,13 @@
 # Adding Text Exemplars
 Flat, Dynamic, and Procedural
 
-*Note*: "Delete this Text_Flat" is actaully in CS10
+*Note*: "Delete this Text_Flat" is actually in CS10
 - this is used to verify writing of the dynamic and procedural function programs
 
 **UNDER CONSTRUCTION**
+
+Final Assignment: use the procedural program
+- Draw text in 3 different places on the Canvas
 
 Table of Contents
 - General Explanations, link to CS10 and Flat Text, <a href="https://github.com/MercersKitchen/CS10/tree/master/Computer%20Apps/Prototyping%20Skills/AddingText#general-explanations">Click Here</a>
@@ -151,7 +154,9 @@ Exploring Sequences and Series, equivalent fractions and ratios
 
   Finishing Text, Learning Objectives
   - Building a Procedural Understanding of Text
+  - Copy out flat program to structural
+  - Create void procedures, then void procedures with parameters (use parameters at the very end), then method with return (use these parameters before void procedures)
   - Using minimum number of characters printed
   - [Advanced] Using a media query to change the minimum number of characters
-  
+
 ---
