@@ -1,5 +1,5 @@
 //fullScreen();
-size(2000, 2000);
+size(600, 600);
 String title= "I2E456789012";
 PFont titleFont;
 float titleWidth = width*1/2;
@@ -29,7 +29,7 @@ if (titleFontString == "Harrington") {
 }
 println ("New Font Size", titleFontSize);
 textFont(titleFont, titleFontSize); //Change the number until it fits, largest font size //titleFontSize
-text(title, width*1/4, height*0, titleWidth, height*1/10);
+text(title, width*1/4, height*0, titleWidth, titleHeight);
 fill(255); //Reset to white for rest of the program
 
 println(title);

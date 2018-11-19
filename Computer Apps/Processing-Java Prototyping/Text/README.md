@@ -106,7 +106,7 @@ Geometry (Width, Height)    Ratio   Characters    Notes
 250 , 2000                  0.125   2
 75  , 2000                  0.0375  1
 **Include Portrait Geometries, within reason (realistic wide screen is difficult since numbers > 1)**
-- Try to equate to landscape geometries as increasing sequence 
+- Try to equate to landscape geometries as increasing sequence
 
 **Note: numbers may be easier to understand if truncated to tenths**
 - OR constant height of 1000
@@ -148,4 +148,10 @@ Exploring Sequences and Series, equivalent fractions and ratios
   Example of Odd Font Ratio of Width to Height: Harrington
   - Requires a 1% decrease in font size to print the text after the autosize calculation
 
+
+  Finishing Text, Learning Objectives
+  - Building a Procedural Understanding of Text
+  - Using minimum number of characters printed
+  - [Advanced] Using a media query to change the minimum number of characters
+  
 ---
