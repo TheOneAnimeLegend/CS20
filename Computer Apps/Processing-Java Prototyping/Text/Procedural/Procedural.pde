@@ -21,20 +21,10 @@ void setup() {
 }
 
 void draw() {
-  fill(#2C08FF); //Blue Ink, copied from Color Selector
-  textAlign (CENTER, CENTER); //Align X&Y, see Processing.org / Reference
-  //Values: LEFT | CENTER | RIGHT & TOP | CENTER | BOTTOM | BASELINE
-  textFont(titleFont, titleFontSize); //Change the number until it fits, largest font size
-  float i = 1;
-  while (textWidth(title) > titleWidth) {
-    titleFontSize = titleFontSize * i;
-    textSize (titleFontSize);
-    i = i - 0.0001;
-    println ("i:", i, "Title Font Size:", titleFontSize); //75.8, 74.6, 50 is where it prints
-  }
-  println ("New Font Size", titleFontSize);
+  textDraw(); //Title
+  //textDraw(); //Footer
   
-  fill(255); //Reset to white for rest of the program
+  
 }
 
 /*
