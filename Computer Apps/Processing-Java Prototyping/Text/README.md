@@ -65,14 +65,54 @@ Testing your function: create more instances of text that need to be displayed
 - WHILE Loop will execute contained commands the first time
 - If either are false, then will not enter Loop
 
-### Main Issues with this Algorithm
-1. Text is not drawn, font size too big
-   - Descrease font size
-   - If autosizing, check font being used and decrease further by percentage it needs
-     - Ratio of width to may be odd
+## Main Bug - Text **Must Be** a Specific size first
+"Everything with more characters will print"
 
-Example of Odd Font Ratio of Width to Height: Harrington
-- Requires a 1% decrease in font size to print the text after the autosize calculation
+Purpose: learn example of media queries, different geometries, and font examples
+- learn about number of characters in a string
+- learn to test for font size by developing some mathematics
+- Square, Landscape, and Portrait Geometries
+
+"Must be minimum number of characters or will not print"
+
+Example to Explore
+- Harrington Font with String "Wahoo!", 6 Characters Long
+- Explore ratio of width/height
+- Compare to extra percent decrease in font size
+- Notice: linear sequence, similar to slope or skip counting in 2D
+- Notice: linear sequence works for similar ratios or fractions (validation for geometry ratio)
+
+Numbers that will come out ...
+[See image]
+
+### Printing Minimum Characters on a ...
+
+To Illustrate: use FlatForLoop.pde
+- Number all characters, test to see the minimum size on all square geometries
+- Start with Square Geometry to see where to begin, based on main bug example with 6 characters
+
+Geometry (Width, Height)    Ratio   Characters    Notes
+200, 200                    1       12            Works for all Square Geometries (similar ratios), tested to (2000, 2000)
+1950, 2000                  0.975   12            Landscape Examples
+1750, 2000                  0.875   11
+1650, 2000                  0.825   10
+1550, 2000                  0.775   9
+1350, 2000                  0.675   8
+1150, 2000                  0.575   7
+1000, 2000                  0.5     6
+800 , 2000                  0.4     5
+650 , 2000                  0.325   4
+450 , 2000                  0.225   3
+250 , 2000                  0.125   2
+75  , 2000                  0.0375  1
+**Include Portrait Geometries, within reason (realistic wide screen is difficult since numbers > 1)**
+- Try to equate to landscape geometries as increasing sequence 
+
+**Note: numbers may be easier to understand if truncated to tenths**
+- OR constant height of 1000
+- CAUTION: these numbers are not exact either
+- Easier to Visualize: place on horizontal number line
+
 
 ---
 
@@ -98,5 +138,14 @@ Exploring Sequences and Series, equivalent fractions and ratios
   - What happens when less characters
   - What happens when less or more ratio
   - See Image for 7 characters
+
+  Main Issues with this Algorithm
+  1. Text is not drawn, font size too big
+     - Descrease font size
+     - If autosizing, check font being used and decrease further by percentage it needs
+       - Ratio of width to may be odd
+
+  Example of Odd Font Ratio of Width to Height: Harrington
+  - Requires a 1% decrease in font size to print the text after the autosize calculation
 
 ---
