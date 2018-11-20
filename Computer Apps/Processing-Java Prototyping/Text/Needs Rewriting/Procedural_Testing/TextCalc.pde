@@ -1,7 +1,7 @@
 //Global Variables for Everything Text
 PFont titleFont;
 //String[] fontList = PFont.list(); //To list all fonts available on system
-
+float geometry;
 //Title
 String title;
 float titleWidth;
@@ -32,6 +32,8 @@ void textDraw(String string, PFont font, float height, color colour, int AlignHo
   //Values: LEFT | CENTER | RIGHT & TOP | CENTER | BOTTOM | BASELINE
   if (string.length() < 13) {
     //Catch for all Strings less than what will draw given a specific geometry
+    geometry = width/height;
+    println("Geometry Ratio is:", geometry);
     if (string == footer) {
       fontSize = 50;
     }
