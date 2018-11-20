@@ -1,13 +1,4 @@
 //Global Variables
-String title;
-PFont titleFont;
-float titleWidth;
-float titleHeight;
-float titleFontSize;
-//String[] fontList = PFont.list(); //To list all fonts available on system
-String titleFontString;
-float titleFontDecrease;
-float footerHeight;
 
 void setup() {
   //fullScreen();
@@ -17,26 +8,12 @@ void setup() {
   println("Start of Console");
   
   GUI_setup();
+  
+  // string, font, height, colour, AlignHorizontal, AlignVertical, rectX, rectY, rect_Width, rectHeight
+  textDraw(title, titleFont, height, #2C08FF, CENTER, CENTER, width*1/4, height*0, titleWidth, titleHeight); //Title
+  textDraw(footer, titleFont, height, #2C08FF, CENTER, CENTER, width*1/4, footerY, titleWidth, titleHeight); //Footer
 
 }
 
 void draw() {
-  textDraw(); //Title
-  //textDraw(); //Footer
-  
-  
 }
-
-/*
-if (titleFontString == "Harrington") {
- titleFontSize = titleFontSize * titleFontDecrease;
- }
- 
- println(title);
- println(title.length());
- 
-/* Example Adding Spaces
- title = title + " ";
- println(title);
- println(title.length());
- */
