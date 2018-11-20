@@ -159,4 +159,9 @@ Exploring Sequences and Series, equivalent fractions and ratios
   - Using minimum number of characters printed
   - [Advanced] Using a media query to change the minimum number of characters
 
+Final Ideas
+- using IF-ELSE to catch an extra decrease with characters less than a square geometry
+- using additional IF-ELSE to catch different fonts
+- combining IF-ELSE into AND
+
 ---
