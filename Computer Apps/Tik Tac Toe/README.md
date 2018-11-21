@@ -14,7 +14,8 @@ Progression:
 - Generalizing your Algorithm, extra material, <a href="">Click Here</a>
 - Case Study: Simple GUI, <a href="">Click Here</a>
 - Creating Simple GUI (measurements),
-  - Adding Text, <a href="">Click Here</a>
+  - Adding Text (progression from simple drawing text to using a font size calculator), <a href="">Click Here</a>
+    - See GUIandTextPro for final exemplar of text being repeated
   - Adding a Quit Button, <a href="">Click Here</a>
   - Adding Images, <a href="">Click Here</a>
     Note: if students find an X&O image to draw to the canvas, instead of the text, this makes for a nice lesson
