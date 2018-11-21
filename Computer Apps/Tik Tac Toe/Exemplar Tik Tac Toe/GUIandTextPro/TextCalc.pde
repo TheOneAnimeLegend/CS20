@@ -3,7 +3,6 @@ PFont titleFont;
 
 float geometry;
 
-String title;
 float titleWidth;
 float titleHeight;
 
@@ -11,7 +10,6 @@ String footer;
 float footerY;
 
 void textSetup() {
-  title= "I2E4567890123";
   titleFont = createFont ("Harrington", height); // //Must also Tools / Create Font / Find Font / Do Not Press "OK"
   titleWidth = width*1/2;
   titleHeight = height*1/10;
@@ -20,7 +18,6 @@ void textSetup() {
   footerY = (height*9/10)-1;
 
   //printArray(fontList); //For listing all possible fonts to choose, then createFont
-  
 }
 
 //Exemplar VOID with Parameters
@@ -36,9 +33,14 @@ void textDraw(String string, PFont font, float height, color ink, int alignHoriz
     fontSize = textCalculator(height, string, rectWidth);
   } else {
     //Catch for string less than 13 characters
-    fontSize = fontSize * 0.08; //Change number as needed
+    if (string == title) {
+      fontSize = fontSize * 0.08; //Change number as needed
+    }
+    if (string == quit) {
+      fontSize = fontSize * 0.08; //Change number as needed
+    }
   }
-  
+
   textFont(font, fontSize); //Change the number until it fits, largest font sizetextFont(titleFont, titleFontSize); //Change the number until it fits, largest font size //titleFontSize
   text(string, rectX, rectY, rectWidth, rectHeight);
   fill(255); //Reset to white for rest of the program

@@ -22,6 +22,12 @@ Progression:
 - <a href="">Click Here</a>
 <a href="">Click Here</a>
 
+**CONTINUE HERE**
+- GUIandTextPro.pde
+  - Continue with using textDraw() in text()
+  - Double check the other code too
+-
+
 ---
 
 ## Introduction
