@@ -69,4 +69,7 @@ Website Projects
 - Business-style Website 
 - Promoting Processing-Java Embedded Programs Website
 
+Math Ideas (beyond FOR Loops, counting, and skip counting)
+- Autosizing Math (2D Sequences, linear sequences): text (tik tac toe) and images (study cards)
+
 ---
