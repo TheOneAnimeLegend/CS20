@@ -20,7 +20,6 @@ void textSetup() {
   footerY = (height*9/10)-1;
 
   //printArray(fontList); //For listing all possible fonts to choose, then createFont
-  
 }
 
 //Exemplar VOID with Parameters
@@ -36,9 +35,44 @@ void textDraw(String string, PFont font, float height, color ink, int alignHoriz
     fontSize = textCalculator(height, string, rectWidth);
   } else {
     //Catch for string less than 13 characters
-    fontSize = fontSize * 0.08; //Change number as needed
+    if (string.length() == 12) {
+      //fontSize = fontSize * 0.08; //Change number as needed
+    }
+    if (string.length() == 11) {
+      //fontSize = fontSize * 0.08; //Change number as needed
+    }
+    if (string.length() == 10) {
+      //fontSize = fontSize * 0.08; //Change number as needed
+    }
+    if (string.length() == 9) {
+      //fontSize = fontSize * 0.08; //Change number as needed
+    }
+    if (string.length() == 8) {
+      //fontSize = fontSize * 0.08; //Change number as needed
+    }
+    if (string.length() == 7) {
+      //fontSize = fontSize * 0.08; //Change number as needed
+    }
+    if (string.length() == 6) {
+      fontSize = fontSize * 0.08; //Change number as needed
+    }
+    if (string.length() == 5) {
+      //fontSize = fontSize * 0.08; //Change number as needed
+    }
+    if (string.length() == 4) {
+      //fontSize = fontSize * 0.08; //Change number as needed
+    }
+    if (string.length() == 3) {
+      //fontSize = fontSize * 0.08; //Change number as needed
+    }
+    if (string.length() == 2) {
+      //fontSize = fontSize * 0.08; //Change number as needed
+    }
+    if (string.length() == 1) {
+      //fontSize = fontSize * 0.08; //Change number as needed
+    }
   }
-  
+
   textFont(font, fontSize); //Change the number until it fits, largest font sizetextFont(titleFont, titleFontSize); //Change the number until it fits, largest font size //titleFontSize
   text(string, rectX, rectY, rectWidth, rectHeight);
   fill(255); //Reset to white for rest of the program
