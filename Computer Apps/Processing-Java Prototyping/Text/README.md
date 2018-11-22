@@ -164,4 +164,8 @@ Final Ideas
 - using additional IF-ELSE to catch different fonts
 - combining IF-ELSE into AND
 
+When charcters are less than 13, one decrease in font size will work for all characters
+- Verify this with different fonts
+
+When mutliple text sizes are present, try to find smallest font and print that one
 ---
