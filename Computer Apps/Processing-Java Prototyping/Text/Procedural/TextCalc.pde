@@ -11,7 +11,7 @@ String footer;
 float footerY;
 
 void textSetup() {
-  title= "I2E4567890123";
+  title= "Top4567890123456";
   titleFont = createFont ("Harrington", height); // //Must also Tools / Create Font / Find Font / Do Not Press "OK"
   titleWidth = width*1/2;
   titleHeight = height*1/10;
@@ -34,43 +34,8 @@ void textDraw(String string, PFont font, float height, color ink, int alignHoriz
   if (string.length() >= 13) { //Number changes depending on geometry ratio (width/height)
     fontSize = textCalculator(height, string, rectWidth);
   } else {
-    //Catch for string less than 13 characters
-    if (string.length() == 12) {
-      //fontSize = fontSize * 0.08; //Change number as needed
-    }
-    if (string.length() == 11) {
-      //fontSize = fontSize * 0.08; //Change number as needed
-    }
-    if (string.length() == 10) {
-      //fontSize = fontSize * 0.08; //Change number as needed
-    }
-    if (string.length() == 9) {
-      //fontSize = fontSize * 0.08; //Change number as needed
-    }
-    if (string.length() == 8) {
-      //fontSize = fontSize * 0.08; //Change number as needed
-    }
-    if (string.length() == 7) {
-      //fontSize = fontSize * 0.08; //Change number as needed
-    }
-    if (string.length() == 6) {
-      fontSize = fontSize * 0.08; //Change number as needed
-    }
-    if (string.length() == 5) {
-      //fontSize = fontSize * 0.08; //Change number as needed
-    }
-    if (string.length() == 4) {
-      //fontSize = fontSize * 0.08; //Change number as needed
-    }
-    if (string.length() == 3) {
-      //fontSize = fontSize * 0.08; //Change number as needed
-    }
-    if (string.length() == 2) {
-      //fontSize = fontSize * 0.08; //Change number as needed
-    }
-    if (string.length() == 1) {
-      //fontSize = fontSize * 0.08; //Change number as needed
-    }
+    //Catch for string less than 13 characters, Change number as needed and add IF's to catch
+    fontSize = fontSize * 0.08; //
   }
 
   textFont(font, fontSize); //Change the number until it fits, largest font sizetextFont(titleFont, titleFontSize); //Change the number until it fits, largest font size //titleFontSize
